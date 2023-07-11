@@ -26,7 +26,7 @@ function hide_challenges(completed_challenges) {
                 count += 1;
                 if (completed_challenges.includes(aElements[i].textContent)) {
                     aElements[i].parentNode.remove();
-
+                    console.log('Removed ' + aElements[i].textContent + ' challenge')
                 }
             }
         });
