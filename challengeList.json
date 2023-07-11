@@ -75,7 +75,7 @@
         "title": "1990's Decade",
         "hof_url": "https://anime.jhiday.net/hof/challenge/1990sDecade",
         "mal_url": "https://myanimelist.net/forum/?topicid=1915966",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired 2000-2002",
@@ -99,7 +99,7 @@
         "title": "Aired 2005",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aired2005",
         "mal_url": "https://myanimelist.net/forum/?topicid=1607814",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired 2006",
@@ -135,49 +135,49 @@
         "title": "Aired 2011",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aired2011",
         "mal_url": "https://myanimelist.net/forum/?topicid=1507235",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired 2012",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aired2012",
         "mal_url": "https://myanimelist.net/forum/?topicid=1504544",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired 2013",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aired2013",
         "mal_url": "https://myanimelist.net/forum/?topicid=1491360",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired 2014",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aired2014",
         "mal_url": "https://myanimelist.net/forum/?topicid=1487216",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired 2015",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aired2015",
         "mal_url": "https://myanimelist.net/forum/?topicid=1496025",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired 2016",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aired2016",
         "mal_url": "https://myanimelist.net/forum/?topicid=1498312",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired 2017",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aired2017",
         "mal_url": "https://myanimelist.net/forum/?topicid=1582386",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired 2018",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aired2018",
         "mal_url": "https://myanimelist.net/forum/?topicid=1701375",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired 2019",
@@ -225,7 +225,7 @@
         "title": "OVA Timeline",
         "hof_url": "https://anime.jhiday.net/hof/challenge/ovaTimeline",
         "mal_url": "https://myanimelist.net/forum/?topicid=1874668",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Ultimate",
@@ -261,7 +261,7 @@
         "title": "Gintama",
         "hof_url": "https://anime.jhiday.net/hof/challenge/gintama",
         "mal_url": "https://myanimelist.net/forum/?topicid=1827828",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Gundam Universe",
@@ -291,7 +291,7 @@
         "title": "One Piece",
         "hof_url": "https://anime.jhiday.net/hof/challenge/onePiece",
         "mal_url": "https://myanimelist.net/forum/?topicid=1479556",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Pokemon",
@@ -333,7 +333,7 @@
         "title": "Type-Moon",
         "hof_url": "https://anime.jhiday.net/hof/challenge/typeMoon",
         "mal_url": "https://myanimelist.net/forum/?topicid=1495458",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Yu-Gi-Oh",
@@ -345,7 +345,7 @@
         "title": "Alpha-Producers",
         "hof_url": "https://anime.jhiday.net/hof/challenge/alphaProducers",
         "mal_url": "https://myanimelist.net/forum/?topicid=1883810",
-        "completed": false
+        "completed": true
     },
     {
         "title": "AniSongs",
@@ -405,7 +405,7 @@
         "title": "Studios",
         "hof_url": "https://anime.jhiday.net/hof/challenge/studios",
         "mal_url": "https://myanimelist.net/forum/?topicid=1504823",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Tezuka Universe",
@@ -417,7 +417,7 @@
         "title": "Voice Actor",
         "hof_url": "https://anime.jhiday.net/hof/challenge/voiceActor",
         "mal_url": "https://myanimelist.net/forum/?topicid=1494245",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Wada Jouji",
@@ -441,7 +441,7 @@
         "title": "Young Animator Training Project",
         "hof_url": "https://anime.jhiday.net/hof/challenge/youngAnimatorTrainingProject",
         "mal_url": "https://myanimelist.net/forum/?topicid=1608966",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Yuasa Masaaki",
@@ -513,7 +513,7 @@
         "title": "MAPPA",
         "hof_url": "https://anime.jhiday.net/hof/challenge/mappa",
         "mal_url": "https://myanimelist.net/forum/?topicid=1729745",
-        "completed": true
+        "completed": false
     },
     {
         "title": "[Mini-Studio] feel.",
@@ -531,7 +531,7 @@
         "title": "[Mini-Studio] LIDENFILMS",
         "hof_url": "https://anime.jhiday.net/hof/challenge/lidenfilms",
         "mal_url": "https://myanimelist.net/forum/?topicid=1937771",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Mini-Studio] Nippon Animation",
@@ -561,7 +561,7 @@
         "title": "[Mini-Studio] SILVER LINK.",
         "hof_url": "https://anime.jhiday.net/hof/challenge/silverLink",
         "mal_url": "https://myanimelist.net/forum/?topicid=1937771",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Mini-Studio] Tatsunoko Production",
@@ -639,7 +639,7 @@
         "title": "Action",
         "hof_url": "https://anime.jhiday.net/hof/challenge/action",
         "mal_url": "https://myanimelist.net/forum/?topicid=1763456",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Adventure",
@@ -651,19 +651,19 @@
         "title": "Comedy",
         "hof_url": "https://anime.jhiday.net/hof/challenge/comedy",
         "mal_url": "https://myanimelist.net/forum/?topicid=1560539",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Dementia",
         "hof_url": "https://anime.jhiday.net/hof/challenge/dementia",
         "mal_url": "https://myanimelist.net/forum/?topicid=1571656",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Demons",
         "hof_url": "https://anime.jhiday.net/hof/challenge/demons",
         "mal_url": "https://myanimelist.net/forum/?topicid=1740852",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Drama",
@@ -675,13 +675,13 @@
         "title": "Ecchi",
         "hof_url": "https://anime.jhiday.net/hof/challenge/ecchi",
         "mal_url": "https://myanimelist.net/forum/?topicid=1559904",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Fantasy",
         "hof_url": "https://anime.jhiday.net/hof/challenge/fantasy",
         "mal_url": "https://myanimelist.net/forum/?topicid=1567953",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Harem",
@@ -693,7 +693,7 @@
         "title": "Hentai",
         "hof_url": "https://anime.jhiday.net/hof/challenge/hentai",
         "mal_url": "https://myanimelist.net/forum/?topicid=1621094",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Historical",
@@ -711,7 +711,7 @@
         "title": "Josei",
         "hof_url": "https://anime.jhiday.net/hof/challenge/josei",
         "mal_url": "https://myanimelist.net/forum/?topicid=1524560",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Magic",
@@ -723,7 +723,7 @@
         "title": "Martial Arts",
         "hof_url": "https://anime.jhiday.net/hof/challenge/martialArts",
         "mal_url": "https://myanimelist.net/forum/?topicid=1810487",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Mecha",
@@ -747,7 +747,7 @@
         "title": "Mystery",
         "hof_url": "https://anime.jhiday.net/hof/challenge/mystery",
         "mal_url": "https://myanimelist.net/forum/?topicid=1544516",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Parody",
@@ -759,7 +759,7 @@
         "title": "Police Cars",
         "hof_url": "https://anime.jhiday.net/hof/challenge/policeCars",
         "mal_url": "https://myanimelist.net/forum/?topicid=1811548",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Psychological",
@@ -783,7 +783,7 @@
         "title": "School",
         "hof_url": "https://anime.jhiday.net/hof/challenge/school",
         "mal_url": "https://myanimelist.net/forum/?topicid=1616522",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Sci-Fi",
@@ -807,13 +807,13 @@
         "title": "Slice of Life",
         "hof_url": "https://anime.jhiday.net/hof/challenge/SliceOfLife",
         "mal_url": "https://myanimelist.net/forum/?topicid=1532581",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Space",
         "hof_url": "https://anime.jhiday.net/hof/challenge/space",
         "mal_url": "https://myanimelist.net/forum/?topicid=1811966",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Sports",
@@ -843,7 +843,7 @@
         "title": "Thriller",
         "hof_url": "https://anime.jhiday.net/hof/challenge/thriller",
         "mal_url": "https://myanimelist.net/forum/?topicid=1810488",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Vampire",
@@ -897,7 +897,7 @@
         "title": "GAR",
         "hof_url": "https://anime.jhiday.net/hof/challenge/gar",
         "mal_url": "https://myanimelist.net/forum/?topicid=1555775",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Game",
@@ -975,7 +975,7 @@
         "title": "[Theme Tags] Aliens",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aliens",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Androids",
@@ -993,19 +993,19 @@
         "title": "[Theme Tags] Angst",
         "hof_url": "https://anime.jhiday.net/hof/challenge/angst",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Anthropomorphism",
         "hof_url": "https://anime.jhiday.net/hof/challenge/anthropomorphism",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Coming of Age",
         "hof_url": "https://anime.jhiday.net/hof/challenge/comingOfAge",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Conspiracy",
@@ -1017,7 +1017,7 @@
         "title": "[Theme Tags] Deities",
         "hof_url": "https://anime.jhiday.net/hof/challenge/deities",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Delinquents",
@@ -1029,19 +1029,19 @@
         "title": "[Theme Tags] Detectives",
         "hof_url": "https://anime.jhiday.net/hof/challenge/detectives",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Disasters",
         "hof_url": "https://anime.jhiday.net/hof/challenge/disasters",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Dragons",
         "hof_url": "https://anime.jhiday.net/hof/challenge/dragons",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Elves",
@@ -1053,43 +1053,43 @@
         "title": "[Theme Tags] Fairies",
         "hof_url": "https://anime.jhiday.net/hof/challenge/fairies",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Friendship",
         "hof_url": "https://anime.jhiday.net/hof/challenge/friendship",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Ghosts",
         "hof_url": "https://anime.jhiday.net/hof/challenge/ghosts",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Gore",
         "hof_url": "https://anime.jhiday.net/hof/challenge/gore",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Gunfights",
         "hof_url": "https://anime.jhiday.net/hof/challenge/gunfights",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Historical Period",
         "hof_url": "https://anime.jhiday.net/hof/challenge/historicalPeriod",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Love Triangles",
         "hof_url": "https://anime.jhiday.net/hof/challenge/loveTriangles",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Maids",
@@ -1101,19 +1101,19 @@
         "title": "[Theme Tags] Mythology",
         "hof_url": "https://anime.jhiday.net/hof/challenge/mythology",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Ninjas",
         "hof_url": "https://anime.jhiday.net/hof/challenge/ninjas",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Parental Abandonment",
         "hof_url": "https://anime.jhiday.net/hof/challenge/parentalAbandonment",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Power Suits",
@@ -1125,31 +1125,31 @@
         "title": "[Theme Tags] Robots",
         "hof_url": "https://anime.jhiday.net/hof/challenge/robots",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Slapstick Humor",
         "hof_url": "https://anime.jhiday.net/hof/challenge/slapstick",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Stereotypes",
         "hof_url": "https://anime.jhiday.net/hof/challenge/stereotypes",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Swordplay",
         "hof_url": "https://anime.jhiday.net/hof/challenge/swordplay",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "[Theme Tags] Tragedy",
         "hof_url": "https://anime.jhiday.net/hof/challenge/tragedy",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Time Travel",
@@ -1167,19 +1167,19 @@
         "title": "Adult Character",
         "hof_url": "https://anime.jhiday.net/hof/challenge/adultCharacter",
         "mal_url": "https://myanimelist.net/forum/?topicid=1793190",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Character Tag Chain",
         "hof_url": "https://anime.jhiday.net/hof/challenge/characterTagChain",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802709",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Character Tags",
         "hof_url": "https://anime.jhiday.net/hof/challenge/charactertags",
         "mal_url": "https://myanimelist.net/forum/?topicid=1747235",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Child Character",
@@ -1203,13 +1203,13 @@
         "title": "Multi Character",
         "hof_url": "https://anime.jhiday.net/hof/challenge/multiCharacterTags",
         "mal_url": "https://myanimelist.net/forum/?topicid=2071836",
-        "completed": false
+        "completed": true
     },
     {
         "title": "People",
         "hof_url": "https://anime.jhiday.net/hof/challenge/people",
         "mal_url": "https://myanimelist.net/forum/?topicid=1533779",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Alpha-Seasonal Movie",
@@ -1221,7 +1221,7 @@
         "title": "Alpha-Seasonal OVAs",
         "hof_url": "https://anime.jhiday.net/hof/challenge/alphaOVA",
         "mal_url": "https://myanimelist.net/forum/?topicid=1530669",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Alpha-Seasonal Specials",
@@ -1239,7 +1239,7 @@
         "title": "Genre-Movies",
         "hof_url": "https://anime.jhiday.net/hof/challenge/genreMovies",
         "mal_url": "https://myanimelist.net/forum/?topicid=1487830",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Genre-Music",
@@ -1257,13 +1257,13 @@
         "title": "Genre-OVA",
         "hof_url": "https://anime.jhiday.net/hof/challenge/genreOVA",
         "mal_url": "https://myanimelist.net/forum/?topicid=1487841",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Genre-Series",
         "hof_url": "https://anime.jhiday.net/hof/challenge/genreSeries",
         "mal_url": "https://myanimelist.net/forum/?topicid=1496366",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Genre-Special",
@@ -1287,13 +1287,13 @@
         "title": "Movie-per-Day",
         "hof_url": "https://anime.jhiday.net/hof/challenge/moviePerDay",
         "mal_url": "https://myanimelist.net/forum/?topicid=1481059",
-        "completed": false
+        "completed": true
     },
     {
         "title": "ONA Exposure",
         "hof_url": "https://anime.jhiday.net/hof/challenge/onaExposure",
         "mal_url": "https://myanimelist.net/forum/?topicid=1482815",
-        "completed": false
+        "completed": true
     },
     {
         "title": "ONA-per-Day",
@@ -1305,7 +1305,7 @@
         "title": "OVA Exposure",
         "hof_url": "https://anime.jhiday.net/hof/challenge/ovaExposure",
         "mal_url": "https://myanimelist.net/forum/?topicid=1483186",
-        "completed": false
+        "completed": true
     },
     {
         "title": "OVA-per-Day",
@@ -1335,13 +1335,13 @@
         "title": "Special-per-Day",
         "hof_url": "https://anime.jhiday.net/hof/challenge/specialPerDay",
         "mal_url": "https://myanimelist.net/forum/?topicid=1522819",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Specials Exposure",
         "hof_url": "https://anime.jhiday.net/hof/challenge/specialsExposure",
         "mal_url": "https://myanimelist.net/forum/?topicid=1503068",
-        "completed": false
+        "completed": true
     },
     {
         "title": "TV Matching",
@@ -1365,19 +1365,19 @@
         "title": "Adaptations",
         "hof_url": "https://anime.jhiday.net/hof/challenge/adaptations",
         "mal_url": "https://myanimelist.net/forum/?topicid=1506711",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Content Rating",
         "hof_url": "https://anime.jhiday.net/hof/challenge/contentRating",
         "mal_url": "https://myanimelist.net/forum/?topicid=1630131",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Content Rating TV",
         "hof_url": "https://anime.jhiday.net/hof/challenge/contentRatingTV",
         "mal_url": "https://myanimelist.net/forum/?topicid=1522281",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Demographics",
@@ -1413,7 +1413,7 @@
         "title": "Multi Genre",
         "hof_url": "https://anime.jhiday.net/hof/challenge/multiGenre",
         "mal_url": "https://myanimelist.net/forum/?topicid=1730660",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Multi Tags",
@@ -1443,7 +1443,7 @@
         "title": "Original",
         "hof_url": "https://anime.jhiday.net/hof/challenge/original",
         "mal_url": "https://myanimelist.net/forum/?topicid=1700442",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scum of the Scum",
@@ -1455,13 +1455,13 @@
         "title": "Sequel",
         "hof_url": "https://anime.jhiday.net/hof/challenge/sequel",
         "mal_url": "https://myanimelist.net/forum/?topicid=1871069",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Short",
         "hof_url": "https://anime.jhiday.net/hof/challenge/short",
         "mal_url": "https://myanimelist.net/forum/?topicid=1527432",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Special Scum",
@@ -1509,7 +1509,7 @@
         "title": "User Ratings",
         "hof_url": "https://anime.jhiday.net/hof/challenge/userRatings",
         "mal_url": "https://myanimelist.net/forum/?topicid=1509858",
-        "completed": false
+        "completed": true
     },
     {
         "title": "52 Weeks",
@@ -1521,7 +1521,7 @@
         "title": "1st Year Anniversary",
         "hof_url": "https://anime.jhiday.net/hof/challenge/firstYearAnniversary",
         "mal_url": "https://myanimelist.net/forum/?topicid=1589530",
-        "completed": false
+        "completed": true
     },
     {
         "title": "2nd Year Anniversary",
@@ -1563,13 +1563,13 @@
         "title": "Anime Tag Chain",
         "hof_url": "https://anime.jhiday.net/hof/challenge/animeTagChain",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802702",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Anime Tags",
         "hof_url": "https://anime.jhiday.net/hof/challenge/animeTags",
         "mal_url": "https://myanimelist.net/forum/?topicid=1923908",
-        "completed": false
+        "completed": true
     },
     {
         "title": "BINGO",
@@ -1587,7 +1587,7 @@
         "title": "Featured",
         "hof_url": "https://anime.jhiday.net/hof/challenge/featured",
         "mal_url": "https://myanimelist.net/forum/?topicid=1597621",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Hints",
@@ -1623,13 +1623,13 @@
         "title": "Reviewed",
         "hof_url": "https://anime.jhiday.net/hof/challenge/reviewed",
         "mal_url": "https://myanimelist.net/forum/?topicid=1565485",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Shiritori",
         "hof_url": "https://anime.jhiday.net/hof/challenge/shiritori",
         "mal_url": "https://myanimelist.net/forum/?topicid=1722676",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Staff Favorite Anime",
@@ -1641,7 +1641,7 @@
         "title": "Staff Favorite Items",
         "hof_url": "https://anime.jhiday.net/hof/challenge/staffFavoriteItems",
         "mal_url": "https://myanimelist.net/forum/?topicid=1994254",
-        "completed": false
+        "completed": true
     },
     {
         "title": "TV Tropes",
@@ -1689,13 +1689,13 @@
         "title": "Easter Bean Hunt - Apr 2020",
         "hof_url": "https://anime.jhiday.net/hof/challenge/easterBeanHuntApr2020",
         "mal_url": "https://myanimelist.net/forum/?topicid=1830941",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Highlighted - Aug 2020",
         "hof_url": "https://anime.jhiday.net/hof/challenge/highlightedAug2020",
         "mal_url": "https://myanimelist.net/forum/?topicid=1854166",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Yggdrasil Anime Roulette",
@@ -1707,13 +1707,13 @@
         "title": "Cheeky Santa 2020",
         "hof_url": "https://anime.jhiday.net/hof/challenge/santa2020",
         "mal_url": "https://myanimelist.net/forum/?topicid=1876039",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Highlighted - Feb 2021",
         "hof_url": "https://anime.jhiday.net/hof/challenge/highlightedFeb2021",
         "mal_url": "https://myanimelist.net/forum/?topicid=1891558",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Yggdrasil Anime Roulette June 2021",
@@ -1725,7 +1725,7 @@
         "title": "2021 Adventure of Sumno & Winsu",
         "hof_url": "https://anime.jhiday.net/hof/challenge/2021adventureOfSumnoAndWinsu",
         "mal_url": "https://myanimelist.net/forum/?topicid=1926761",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Yggdrasil Anime Roulette July 2021",
@@ -1743,7 +1743,7 @@
         "title": "Tricky Quiz 2021",
         "hof_url": "https://anime.jhiday.net/hof/challenge/trickyQuiz2021",
         "mal_url": "https://myanimelist.net/forum/?topicid=1960841",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Trick or Treat Anime Collab Roulette 2021",
@@ -1755,7 +1755,7 @@
         "title": "Cheeky Santa 2021",
         "hof_url": "https://anime.jhiday.net/hof/challenge/santa2021",
         "mal_url": "https://myanimelist.net/forum/?topicid=1973687",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Yggdrasil Anime Roulette Winter 2022",
@@ -1767,7 +1767,7 @@
         "title": "Sports Festival 2022",
         "hof_url": "https://anime.jhiday.net/hof/challenge/sportsFestival22",
         "mal_url": "https://myanimelist.net/forum/?topicid=1996620",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Yggdrasil Anime Roulette Spring 2022",
@@ -1779,7 +1779,7 @@
         "title": "2022 Adventure of Souso & Niwor",
         "hof_url": "https://anime.jhiday.net/hof/challenge/2022adventureOfSousoAndNiwor",
         "mal_url": "https://myanimelist.net/forum/?topicid=2019146",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Yggdrasil Anime Roulette Summer 2022",
@@ -1791,7 +1791,7 @@
         "title": "AWCC Open House",
         "hof_url": "https://anime.jhiday.net/hof/challenge/openHouse",
         "mal_url": "https://myanimelist.net/forum/?topicid=2047939",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Yggdrasil Anime Roulette Fall 2022",
@@ -1803,7 +1803,7 @@
         "title": "Haunted Casino 2022",
         "hof_url": "https://anime.jhiday.net/hof/challenge/hauntedCasino2022",
         "mal_url": "https://myanimelist.net/forum/?topicid=2055235",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Lazy Santa 2022",
@@ -1821,7 +1821,7 @@
         "title": "AWCC Matsuri 2023",
         "hof_url": "https://anime.jhiday.net/hof/challenge/matsuri2023",
         "mal_url": "https://myanimelist.net/forum/?topicid=2079121",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Yggdrasil Anime Roulette Spring 2023",
@@ -2139,13 +2139,13 @@
         "title": "November 2017",
         "hof_url": "https://anime.jhiday.net/hof/challenge/nov2017",
         "mal_url": "https://myanimelist.net/forum/?topicid=1679566",
-        "completed": false
+        "completed": true
     },
     {
         "title": "December 2017",
         "hof_url": "https://anime.jhiday.net/hof/challenge/dec2017",
         "mal_url": "https://myanimelist.net/forum/?topicid=1688418",
-        "completed": false
+        "completed": true
     },
     {
         "title": "January 2018",
@@ -2295,241 +2295,241 @@
         "title": "March 2020",
         "hof_url": "https://anime.jhiday.net/hof/challenge/mar2020",
         "mal_url": "https://myanimelist.net/forum/?topicid=1827343",
-        "completed": false
+        "completed": true
     },
     {
         "title": "April 2020",
         "hof_url": "https://anime.jhiday.net/hof/challenge/apr2020",
         "mal_url": "https://myanimelist.net/forum/?topicid=1832300",
-        "completed": false
+        "completed": true
     },
     {
         "title": "May 2020",
         "hof_url": "https://anime.jhiday.net/hof/challenge/may2020",
         "mal_url": "https://myanimelist.net/forum/?topicid=1837899",
-        "completed": false
+        "completed": true
     },
     {
         "title": "June 2020",
         "hof_url": "https://anime.jhiday.net/hof/challenge/jun2020",
         "mal_url": "https://myanimelist.net/forum/?topicid=1843924",
-        "completed": false
+        "completed": true
     },
     {
         "title": "July 2020",
         "hof_url": "https://anime.jhiday.net/hof/challenge/jul2020",
         "mal_url": "https://myanimelist.net/forum/?topicid=1849498",
-        "completed": false
+        "completed": true
     },
     {
         "title": "August 2020",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aug2020",
         "mal_url": "https://myanimelist.net/forum/?topicid=1855944",
-        "completed": false
+        "completed": true
     },
     {
         "title": "September 2020",
         "hof_url": "https://anime.jhiday.net/hof/challenge/sep2020",
         "mal_url": "https://myanimelist.net/forum/?topicid=1862179",
-        "completed": false
+        "completed": true
     },
     {
         "title": "October 2020",
         "hof_url": "https://anime.jhiday.net/hof/challenge/oct2020",
         "mal_url": "https://myanimelist.net/forum/?topicid=1867596",
-        "completed": false
+        "completed": true
     },
     {
         "title": "November 2020",
         "hof_url": "https://anime.jhiday.net/hof/challenge/nov2020",
         "mal_url": "https://myanimelist.net/forum/?topicid=1873443",
-        "completed": false
+        "completed": true
     },
     {
         "title": "December 2020",
         "hof_url": "https://anime.jhiday.net/hof/challenge/dec2020",
         "mal_url": "https://myanimelist.net/forum/?topicid=1879109",
-        "completed": false
+        "completed": true
     },
     {
         "title": "January 2021",
         "hof_url": "https://anime.jhiday.net/hof/challenge/jan2021",
         "mal_url": "https://myanimelist.net/forum/?topicid=1886007",
-        "completed": false
+        "completed": true
     },
     {
         "title": "February 2021",
         "hof_url": "https://anime.jhiday.net/hof/challenge/feb2021",
         "mal_url": "https://myanimelist.net/forum/?topicid=1893749",
-        "completed": false
+        "completed": true
     },
     {
         "title": "March 2021",
         "hof_url": "https://anime.jhiday.net/hof/challenge/mar2021",
         "mal_url": "https://myanimelist.net/forum/?topicid=1901833",
-        "completed": false
+        "completed": true
     },
     {
         "title": "April 2021",
         "hof_url": "https://anime.jhiday.net/hof/challenge/apr2021",
         "mal_url": "https://myanimelist.net/forum/?topicid=1910863",
-        "completed": false
+        "completed": true
     },
     {
         "title": "May 2021",
         "hof_url": "https://anime.jhiday.net/hof/challenge/may2021",
         "mal_url": "https://myanimelist.net/forum/?topicid=1919628",
-        "completed": false
+        "completed": true
     },
     {
         "title": "June 2021",
         "hof_url": "https://anime.jhiday.net/hof/challenge/jun2021",
         "mal_url": "https://myanimelist.net/forum/?topicid=1927190",
-        "completed": false
+        "completed": true
     },
     {
         "title": "July 2021",
         "hof_url": "https://anime.jhiday.net/hof/challenge/jul2021",
         "mal_url": "https://myanimelist.net/forum/?topicid=1935317",
-        "completed": false
+        "completed": true
     },
     {
         "title": "August 2021",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aug2021",
         "mal_url": "https://myanimelist.net/forum/?topicid=1944813",
-        "completed": false
+        "completed": true
     },
     {
         "title": "September 2021",
         "hof_url": "https://anime.jhiday.net/hof/challenge/sep2021",
         "mal_url": "https://myanimelist.net/forum/?topicid=1953245",
-        "completed": false
+        "completed": true
     },
     {
         "title": "October 2021",
         "hof_url": "https://anime.jhiday.net/hof/challenge/oct2021",
         "mal_url": "https://myanimelist.net/forum/?topicid=1960966",
-        "completed": false
+        "completed": true
     },
     {
         "title": "November 2021",
         "hof_url": "https://anime.jhiday.net/hof/challenge/nov2021",
         "mal_url": "https://myanimelist.net/forum/?topicid=1969037",
-        "completed": false
+        "completed": true
     },
     {
         "title": "December 2021",
         "hof_url": "https://anime.jhiday.net/hof/challenge/dec2021",
         "mal_url": "https://myanimelist.net/forum/?topicid=1976016",
-        "completed": false
+        "completed": true
     },
     {
         "title": "January 2022",
         "hof_url": "https://anime.jhiday.net/hof/challenge/jan2022",
         "mal_url": "https://myanimelist.net/forum/?topicid=1983707",
-        "completed": false
+        "completed": true
     },
     {
         "title": "February 2022",
         "hof_url": "https://anime.jhiday.net/hof/challenge/feb2022",
         "mal_url": "https://myanimelist.net/forum/?topicid=1991255",
-        "completed": false
+        "completed": true
     },
     {
         "title": "March 2022",
         "hof_url": "https://anime.jhiday.net/hof/challenge/mar2022",
         "mal_url": "https://myanimelist.net/forum/?topicid=1998190",
-        "completed": false
+        "completed": true
     },
     {
         "title": "April 2022",
         "hof_url": "https://anime.jhiday.net/hof/challenge/apr2022",
         "mal_url": "https://myanimelist.net/forum/?topicid=2004986",
-        "completed": false
+        "completed": true
     },
     {
         "title": "May 2022",
         "hof_url": "https://anime.jhiday.net/hof/challenge/may2022",
         "mal_url": "https://myanimelist.net/forum/?topicid=2013161",
-        "completed": false
+        "completed": true
     },
     {
         "title": "June 2022",
         "hof_url": "https://anime.jhiday.net/hof/challenge/jun2022",
         "mal_url": "https://myanimelist.net/forum/?topicid=2019841",
-        "completed": false
+        "completed": true
     },
     {
         "title": "July 2022",
         "hof_url": "https://anime.jhiday.net/hof/challenge/july2022",
         "mal_url": "https://myanimelist.net/forum/?topicid=2026858",
-        "completed": false
+        "completed": true
     },
     {
         "title": "August 2022",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aug2022",
         "mal_url": "https://myanimelist.net/forum/?topicid=2034488",
-        "completed": false
+        "completed": true
     },
     {
         "title": "September 2022",
         "hof_url": "https://anime.jhiday.net/hof/challenge/sep2022",
         "mal_url": "https://myanimelist.net/forum/?topicid=2041901",
-        "completed": false
+        "completed": true
     },
     {
         "title": "October 2022",
         "hof_url": "https://anime.jhiday.net/hof/challenge/oct2022",
         "mal_url": "https://myanimelist.net/forum/?topicid=2048751",
-        "completed": false
+        "completed": true
     },
     {
         "title": "November 2022",
         "hof_url": "https://anime.jhiday.net/hof/challenge/nov2022",
         "mal_url": "https://myanimelist.net/forum/?topicid=2055413",
-        "completed": false
+        "completed": true
     },
     {
         "title": "December 2022",
         "hof_url": "https://anime.jhiday.net/hof/challenge/dec2022",
         "mal_url": "https://myanimelist.net/forum/?topicid=2060842",
-        "completed": false
+        "completed": true
     },
     {
         "title": "January 2023",
         "hof_url": "https://anime.jhiday.net/hof/challenge/jan2023",
         "mal_url": "https://myanimelist.net/forum/?topicid=2067364",
-        "completed": false
+        "completed": true
     },
     {
         "title": "February 2023",
         "hof_url": "https://anime.jhiday.net/hof/challenge/feb2023",
         "mal_url": "https://myanimelist.net/forum/?topicid=2073779",
-        "completed": false
+        "completed": true
     },
     {
         "title": "March 2023",
         "hof_url": "https://anime.jhiday.net/hof/challenge/mar2023",
         "mal_url": "https://myanimelist.net/forum/?topicid=2079492",
-        "completed": false
+        "completed": true
     },
     {
         "title": "April 2023",
         "hof_url": "https://anime.jhiday.net/hof/challenge/apr2023",
         "mal_url": "https://myanimelist.net/forum/?topicid=2085409",
-        "completed": false
+        "completed": true
     },
     {
         "title": "May 2023",
         "hof_url": "https://anime.jhiday.net/hof/challenge/may2023",
         "mal_url": "https://myanimelist.net/forum/?topicid=2091429",
-        "completed": false
+        "completed": true
     },
     {
         "title": "June 2023",
         "hof_url": "https://anime.jhiday.net/hof/challenge/jun2023",
         "mal_url": "https://myanimelist.net/forum/?topicid=2097128",
-        "completed": false
+        "completed": true
     },
     {
         "title": "July 2023",
@@ -2540,46 +2540,44 @@
     {
         "title": "Monthly Challenge Creator",
         "hof_url": "https://anime.jhiday.net/hof/challenge/monthlyChallengeCreator",
-        "mal_url": [
-            "https://myanimelist.net/clubs.php?cid=70446"
-        ],
+        "mal_url": "https://myanimelist.net/clubs.php?cid=70446",
         "completed": false
     },
     {
         "title": "Second Chances 2016",
         "hof_url": "https://anime.jhiday.net/hof/challenge/secondChances2016",
         "mal_url": "https://myanimelist.net/forum/?topicid=1820231",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Second Chances 2017",
         "hof_url": "https://anime.jhiday.net/hof/challenge/secondChances2017",
         "mal_url": "https://myanimelist.net/forum/?topicid=1820235",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Second Chances 2018",
         "hof_url": "https://anime.jhiday.net/hof/challenge/secondChances2018",
         "mal_url": "https://myanimelist.net/forum/?topicid=1822341",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Second Chances 2019",
         "hof_url": "https://anime.jhiday.net/hof/challenge/secondChances2019",
         "mal_url": "https://myanimelist.net/forum/?topicid=1822345",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Second Chances 2020",
         "hof_url": "https://anime.jhiday.net/hof/challenge/secondChances2020",
         "mal_url": "https://myanimelist.net/forum/?topicid=1886051",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Second Chances 2021",
         "hof_url": "https://anime.jhiday.net/hof/challenge/secondChances2021",
         "mal_url": "https://myanimelist.net/forum/?topicid=1983809",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Second Chances 2022",
@@ -2591,349 +2589,349 @@
         "title": "#01 Challenge",
         "hof_url": "https://anime.jhiday.net/hof/challenge/01",
         "mal_url": "https://myanimelist.net/forum/?topicid=1583996",
-        "completed": false
+        "completed": true
     },
     {
         "title": "#02 Challenge",
         "hof_url": "https://anime.jhiday.net/hof/challenge/02",
         "mal_url": "https://myanimelist.net/forum/?topicid=1583997",
-        "completed": false
+        "completed": true
     },
     {
         "title": "#03 Challenge",
         "hof_url": "https://anime.jhiday.net/hof/challenge/03",
         "mal_url": "https://myanimelist.net/forum/?topicid=1584094",
-        "completed": false
+        "completed": true
     },
     {
         "title": "#04 Challenge",
         "hof_url": "https://anime.jhiday.net/hof/challenge/04",
         "mal_url": "https://myanimelist.net/forum/?topicid=1584095",
-        "completed": false
+        "completed": true
     },
     {
         "title": "#05 Challenge",
         "hof_url": "https://anime.jhiday.net/hof/challenge/05",
         "mal_url": "https://myanimelist.net/forum/?topicid=1585151",
-        "completed": false
+        "completed": true
     },
     {
         "title": "#06 Challenge",
         "hof_url": "https://anime.jhiday.net/hof/challenge/06",
         "mal_url": "https://myanimelist.net/forum/?topicid=1585154",
-        "completed": false
+        "completed": true
     },
     {
         "title": "#07 Challenge",
         "hof_url": "https://anime.jhiday.net/hof/challenge/07",
         "mal_url": "https://myanimelist.net/forum/?topicid=1585650",
-        "completed": false
+        "completed": true
     },
     {
         "title": "#08 Challenge",
         "hof_url": "https://anime.jhiday.net/hof/challenge/08",
         "mal_url": "https://myanimelist.net/forum/?topicid=1585654",
-        "completed": false
+        "completed": true
     },
     {
         "title": "#09 Challenge",
         "hof_url": "https://anime.jhiday.net/hof/challenge/09",
         "mal_url": "https://myanimelist.net/forum/?topicid=1587811",
-        "completed": false
+        "completed": true
     },
     {
         "title": "#10 Challenge",
         "hof_url": "https://anime.jhiday.net/hof/challenge/10",
         "mal_url": "https://myanimelist.net/forum/?topicid=1587813",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired January",
         "hof_url": "https://anime.jhiday.net/hof/challenge/airedJan",
         "mal_url": "https://myanimelist.net/forum/?topicid=1695842",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired February",
         "hof_url": "https://anime.jhiday.net/hof/challenge/airedFeb",
         "mal_url": "https://myanimelist.net/forum/?topicid=1695842",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired March",
         "hof_url": "https://anime.jhiday.net/hof/challenge/airedMar",
         "mal_url": "https://myanimelist.net/forum/?topicid=1695842",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired April",
         "hof_url": "https://anime.jhiday.net/hof/challenge/airedApr",
         "mal_url": "https://myanimelist.net/forum/?topicid=1695842",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired May",
         "hof_url": "https://anime.jhiday.net/hof/challenge/airedMay",
         "mal_url": "https://myanimelist.net/forum/?topicid=1695842",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired June",
         "hof_url": "https://anime.jhiday.net/hof/challenge/airedJun",
         "mal_url": "https://myanimelist.net/forum/?topicid=1695842",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired July",
         "hof_url": "https://anime.jhiday.net/hof/challenge/airedJul",
         "mal_url": "https://myanimelist.net/forum/?topicid=1695842",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired August",
         "hof_url": "https://anime.jhiday.net/hof/challenge/airedAug",
         "mal_url": "https://myanimelist.net/forum/?topicid=1695842",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired September",
         "hof_url": "https://anime.jhiday.net/hof/challenge/airedSep",
         "mal_url": "https://myanimelist.net/forum/?topicid=1695842",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired October",
         "hof_url": "https://anime.jhiday.net/hof/challenge/airedOct",
         "mal_url": "https://myanimelist.net/forum/?topicid=1695842",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired November",
         "hof_url": "https://anime.jhiday.net/hof/challenge/airedNov",
         "mal_url": "https://myanimelist.net/forum/?topicid=1695842",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aired December",
         "hof_url": "https://anime.jhiday.net/hof/challenge/airedDec",
         "mal_url": "https://myanimelist.net/forum/?topicid=1695842",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Monday",
         "hof_url": "https://anime.jhiday.net/hof/challenge/monday",
         "mal_url": "https://myanimelist.net/forum/?topicid=1744947",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Tuesday",
         "hof_url": "https://anime.jhiday.net/hof/challenge/tuesday",
         "mal_url": "https://myanimelist.net/forum/?topicid=1744950",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Wednesday",
         "hof_url": "https://anime.jhiday.net/hof/challenge/wednesday",
         "mal_url": "https://myanimelist.net/forum/?topicid=1744952",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Thursday",
         "hof_url": "https://anime.jhiday.net/hof/challenge/thursday",
         "mal_url": "https://myanimelist.net/forum/?topicid=1745114",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Friday",
         "hof_url": "https://anime.jhiday.net/hof/challenge/friday",
         "mal_url": "https://myanimelist.net/forum/?topicid=1745116",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Saturday",
         "hof_url": "https://anime.jhiday.net/hof/challenge/saturday",
         "mal_url": "https://myanimelist.net/forum/?topicid=1745311",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Sunday",
         "hof_url": "https://anime.jhiday.net/hof/challenge/sunday",
         "mal_url": "https://myanimelist.net/forum/?topicid=1745314",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Unknown",
         "hof_url": "https://anime.jhiday.net/hof/challenge/unknown",
         "mal_url": "https://myanimelist.net/forum/?topicid=1745316",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #01",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt01",
         "mal_url": "https://myanimelist.net/forum/?topicid=1519316",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #02",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt02",
         "mal_url": "https://myanimelist.net/forum/?topicid=1523354",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #03",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt03",
         "mal_url": "https://myanimelist.net/forum/?topicid=1531262",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #04",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt04",
         "mal_url": "https://myanimelist.net/forum/?topicid=1542125",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #05",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt05",
         "mal_url": "https://myanimelist.net/forum/?topicid=1551239",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #06",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt06",
         "mal_url": "https://myanimelist.net/forum/?topicid=1555015",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #07",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt07",
         "mal_url": "https://myanimelist.net/forum/?topicid=1560327",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #08",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt08",
         "mal_url": "https://myanimelist.net/forum/?topicid=1563713",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #09",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt09",
         "mal_url": "https://myanimelist.net/forum/?topicid=1570096",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #10",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt10",
         "mal_url": "https://myanimelist.net/forum/?topicid=1575336",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #11",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt11",
         "mal_url": "https://myanimelist.net/forum/?topicid=1583369",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #12",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt12",
         "mal_url": "https://myanimelist.net/forum/?topicid=1587136",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #13",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt13",
         "mal_url": "https://myanimelist.net/forum/?topicid=1592004",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #14",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt14",
         "mal_url": "https://myanimelist.net/forum/?topicid=1593931",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #15",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt15",
         "mal_url": "https://myanimelist.net/forum/?topicid=1599520",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #16",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt16",
         "mal_url": "https://myanimelist.net/forum/?topicid=1606248",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #17",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt17",
         "mal_url": "https://myanimelist.net/forum/?topicid=1610244",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #18",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt18",
         "mal_url": "https://myanimelist.net/forum/?topicid=1613365",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #19",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt19",
         "mal_url": "https://myanimelist.net/forum/?topicid=1624935",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #20",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt20",
         "mal_url": "https://myanimelist.net/forum/?topicid=1630315",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #21",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt21",
         "mal_url": "https://myanimelist.net/forum/?topicid=1639771",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #22",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt22",
         "mal_url": "https://myanimelist.net/forum/?topicid=1648546",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #23",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt23",
         "mal_url": "https://myanimelist.net/forum/?topicid=1664693",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #24",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt24",
         "mal_url": "https://myanimelist.net/forum/?topicid=1672218",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #25",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt25",
         "mal_url": "https://myanimelist.net/forum/?topicid=1720795",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #26",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt26",
         "mal_url": "https://myanimelist.net/forum/?topicid=1730909",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #27",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt27",
         "mal_url": "https://myanimelist.net/forum/?topicid=1740855",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #28",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt28",
         "mal_url": "https://myanimelist.net/forum/?topicid=1801068",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Scavenger Hunt #29",
@@ -2969,19 +2967,19 @@
         "title": "A Certain... (Toaru)",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aCertain",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132#msg47145749",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aikatsu",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aikatsu",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132#msg47145727",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Ashita no Joe",
         "hof_url": "https://anime.jhiday.net/hof/challenge/ashitaNoJoe",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=100#msg57392516",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Bakugan",
@@ -3011,7 +3009,7 @@
         "title": "Bleach",
         "hof_url": "https://anime.jhiday.net/hof/challenge/bleach",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132#msg47145736",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Buddyfight",
@@ -3029,7 +3027,7 @@
         "title": "Cardcaptor Sakura",
         "hof_url": "https://anime.jhiday.net/hof/challenge/cardcaptorSakura",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=50#msg55214083",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Chi's",
@@ -3041,7 +3039,7 @@
         "title": "Chuunibyou",
         "hof_url": "https://anime.jhiday.net/hof/challenge/chuunibyou",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=100#msg57982422",
-        "completed": false
+        "completed": true
     },
     {
         "title": "City Hunter",
@@ -3071,13 +3069,13 @@
         "title": "Di Gi Charat",
         "hof_url": "https://anime.jhiday.net/hof/challenge/diGiCharat",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=50#msg48853780",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Diamond no Ace",
         "hof_url": "https://anime.jhiday.net/hof/challenge/diamondNoAce",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=100#msg62854935",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Doraemon",
@@ -3095,7 +3093,7 @@
         "title": "Evangelion",
         "hof_url": "https://anime.jhiday.net/hof/challenge/evangelion",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=50#msg53129959",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Eyeshield 21",
@@ -3143,13 +3141,13 @@
         "title": "Haikyuu!!",
         "hof_url": "https://anime.jhiday.net/hof/challenge/haikyuu",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=100#msg57392546",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Hajime no Ippo",
         "hof_url": "https://anime.jhiday.net/hof/challenge/hajimeNoIppo",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=50#msg55214048",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Hakuouki",
@@ -3191,13 +3189,13 @@
         "title": "Hidamari Sketch",
         "hof_url": "https://anime.jhiday.net/hof/challenge/hidamari",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132#msg47145772",
-        "completed": false
+        "completed": true
     },
     {
         "title": "High School DxD",
         "hof_url": "https://anime.jhiday.net/hof/challenge/highSchoolDxD",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=50#msg55748888",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Hokuto no Ken",
@@ -3245,7 +3243,7 @@
         "title": "Initial D",
         "hof_url": "https://anime.jhiday.net/hof/challenge/initialD",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132#msg47146676",
-        "completed": false
+        "completed": true
     },
     {
         "title": "InuYasha",
@@ -3257,7 +3255,7 @@
         "title": "JoJo",
         "hof_url": "https://anime.jhiday.net/hof/challenge/jojo",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=100#post102",
-        "completed": false
+        "completed": true
     },
     {
         "title": "K",
@@ -3269,7 +3267,7 @@
         "title": "Katekyo Hitman Reborn",
         "hof_url": "https://anime.jhiday.net/hof/challenge/katekyoHitmanReborn",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=50#msg55012983",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Kenshin",
@@ -3287,7 +3285,7 @@
         "title": "Kuroko",
         "hof_url": "https://anime.jhiday.net/hof/challenge/kuroko",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132#msg47146703",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Legend of the Galactic Heroes",
@@ -3299,7 +3297,7 @@
         "title": "Love Live!",
         "hof_url": "https://anime.jhiday.net/hof/challenge/loveLive",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=50#msg54355169",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Maison Ikkoku",
@@ -3329,7 +3327,7 @@
         "title": "Natsume Yuujinchou",
         "hof_url": "https://anime.jhiday.net/hof/challenge/natsume",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=50#msg54280337",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Ojamajo Doremi",
@@ -3341,7 +3339,7 @@
         "title": "Overlord",
         "hof_url": "https://anime.jhiday.net/hof/challenge/overlord",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=100#msg57392549",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Persona",
@@ -3401,7 +3399,7 @@
         "title": "Science Adventure",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scienceAdventure",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=100#msg57392514",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Shana",
@@ -3419,13 +3417,13 @@
         "title": "Slam Dunk",
         "hof_url": "https://anime.jhiday.net/hof/challenge/slamDunk",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=50#msg55214006",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Slayers",
         "hof_url": "https://anime.jhiday.net/hof/challenge/slayers",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132#msg47146749",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Strike Witches",
@@ -3455,19 +3453,19 @@
         "title": "Tamayura",
         "hof_url": "https://anime.jhiday.net/hof/challenge/tamayura",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132#msg47147442",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Teekyuu",
         "hof_url": "https://anime.jhiday.net/hof/challenge/teekyuu",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132#msg47146758",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Toriko",
         "hof_url": "https://anime.jhiday.net/hof/challenge/toriko",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=50#msg55213887",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Urusei Yatsura",
@@ -3491,13 +3489,13 @@
         "title": "Yowamushi Pedal",
         "hof_url": "https://anime.jhiday.net/hof/challenge/yowamushiPedal",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=50#msg55213867",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Yuu\u2606Yuu\u2606Hakusho",
         "hof_url": "https://anime.jhiday.net/hof/challenge/yuuYuuHakusho",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=50#msg55214040",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Zatch Bell",
@@ -3527,7 +3525,7 @@
         "title": "Amano Kozue",
         "hof_url": "https://anime.jhiday.net/hof/challenge/amanoKozue",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=100#msg65918372",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Aquaplus",
@@ -3665,7 +3663,7 @@
         "title": "Takena Nagao",
         "hof_url": "https://anime.jhiday.net/hof/challenge/takenaNagao",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132#msg47843141",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Tanaami Keiichi",
@@ -3773,7 +3771,7 @@
         "title": "Estta's Psychological Collection",
         "hof_url": "https://anime.jhiday.net/hof/challenge/estta",
         "mal_url": "https://myanimelist.net/forum/?topicid=1610751",
-        "completed": false
+        "completed": true
     },
     {
         "title": "-Ez_Bri_zy-'s Baka Bash",
@@ -3893,7 +3891,7 @@
         "title": "Sostter's Sports and Food Collection",
         "hof_url": "https://anime.jhiday.net/hof/challenge/sostter",
         "mal_url": "https://myanimelist.net/forum/?topicid=1610751",
-        "completed": false
+        "completed": true
     },
     {
         "title": "SunflowerDaisho's Collection",
@@ -3947,7 +3945,7 @@
         "title": "zofot's Collection",
         "hof_url": "https://anime.jhiday.net/hof/challenge/zofot",
         "mal_url": "https://myanimelist.net/forum/?topicid=1610751",
-        "completed": false
+        "completed": true
     },
     {
         "title": "AnnAmaris' Prophecy of Eternal Darkness",
@@ -3959,7 +3957,7 @@
         "title": "Deathline's Dramatical Disarray of Emotions",
         "hof_url": "https://anime.jhiday.net/hof/challenge/deathline",
         "mal_url": "https://myanimelist.net/forum/?topicid=1726482",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Forgotten_Memo's Two Dimensions of Introspection",
@@ -4025,7 +4023,7 @@
         "title": "Flip's Diverse Universe",
         "hof_url": "https://anime.jhiday.net/hof/challenge/flipsard",
         "mal_url": "https://myanimelist.net/forum/?topicid=1800705",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Kaylee's Journey to Wondrous Worlds",
@@ -4109,7 +4107,7 @@
         "title": "Jirmt's Overpowered Protagonists",
         "hof_url": "https://anime.jhiday.net/hof/challenge/jirmt",
         "mal_url": "https://myanimelist.net/forum/?topicid=1806070",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Misao's Wolves of Mibu",

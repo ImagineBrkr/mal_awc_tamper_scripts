@@ -86,19 +86,13 @@ def save_challenges_sot(challenges: list[dict]):
     
 
 def update_list_dicts(main_dicts: list[dict], update_dicts: list[dict]) -> list[dict]:
-    update_dict = {d['title']: d for d in update_dicts}
-    main_dict_titles = {d['title'] for d in main_dicts}
-
-    for title, item in update_dict.items():
-        # Check if the item has a corresponding entry in main_dicts
-        if title in main_dict_titles:
-            # Update the existing item
-            main_dicts[main_dict_titles.index(title)].update(item)
+    main_dict = {d['title']: d for d in main_dicts}
+    for update in update_dicts:
+        if update['title'] in main_dict:
+            main_dict[update['title']].update(update)
         else:
-            # Add the new item
-            item['completed'] = False
-            main_dicts.append(item)
-    return main_dicts
+            main_dict[update['title']] = update
+    return list(main_dict.values())
 
 
 def challenges_to_json():
@@ -117,7 +111,7 @@ def challenges_to_json():
         if (len(mal_forum_url) == 1):
             challenge['mal_url'] = mal_forum_url[0]['href']
         else:
-            challenge['mal_url'] = ['https://myanimelist.net/clubs.php?cid=70446']
+            challenge['mal_url'] = 'https://myanimelist.net/clubs.php?cid=70446'
         
 
     challenges_sot = update_list_dicts(challenges_sot, challenges)
