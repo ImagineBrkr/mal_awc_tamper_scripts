@@ -135,49 +135,49 @@
         "title": "Aired 2011",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aired2011",
         "mal_url": "https://myanimelist.net/forum/?topicid=1507235",
-        "completed": true
+        "completed": false
     },
     {
         "title": "Aired 2012",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aired2012",
         "mal_url": "https://myanimelist.net/forum/?topicid=1504544",
-        "completed": true
+        "completed": false
     },
     {
         "title": "Aired 2013",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aired2013",
         "mal_url": "https://myanimelist.net/forum/?topicid=1491360",
-        "completed": true
+        "completed": false
     },
     {
         "title": "Aired 2014",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aired2014",
         "mal_url": "https://myanimelist.net/forum/?topicid=1487216",
-        "completed": true
+        "completed": false
     },
     {
         "title": "Aired 2015",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aired2015",
         "mal_url": "https://myanimelist.net/forum/?topicid=1496025",
-        "completed": true
+        "completed": false
     },
     {
         "title": "Aired 2016",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aired2016",
         "mal_url": "https://myanimelist.net/forum/?topicid=1498312",
-        "completed": true
+        "completed": false
     },
     {
         "title": "Aired 2017",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aired2017",
         "mal_url": "https://myanimelist.net/forum/?topicid=1582386",
-        "completed": true
+        "completed": false
     },
     {
         "title": "Aired 2018",
         "hof_url": "https://anime.jhiday.net/hof/challenge/aired2018",
         "mal_url": "https://myanimelist.net/forum/?topicid=1701375",
-        "completed": true
+        "completed": false
     },
     {
         "title": "Aired 2019",
@@ -915,7 +915,7 @@
         "title": "Holiday",
         "hof_url": "https://anime.jhiday.net/hof/challenge/holiday",
         "mal_url": "https://myanimelist.net/forum/?topicid=1792764",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Isekai",
