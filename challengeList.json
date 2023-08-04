@@ -717,7 +717,7 @@
         "title": "Magic",
         "hof_url": "https://anime.jhiday.net/hof/challenge/magic",
         "mal_url": "https://myanimelist.net/forum/?topicid=1842487",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Martial Arts",
@@ -1215,7 +1215,7 @@
         "title": "Alpha-Seasonal Movie",
         "hof_url": "https://anime.jhiday.net/hof/challenge/alphaMovies",
         "mal_url": "https://myanimelist.net/forum/?topicid=1480859",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Alpha-Seasonal OVAs",
@@ -1227,7 +1227,7 @@
         "title": "Alpha-Seasonal Specials",
         "hof_url": "https://anime.jhiday.net/hof/challenge/alphaSpecial",
         "mal_url": "https://myanimelist.net/forum/?topicid=1860453",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Alpha-Series",
@@ -1317,7 +1317,7 @@
         "title": "Other Matching",
         "hof_url": "https://anime.jhiday.net/hof/challenge/otherMatching",
         "mal_url": "https://myanimelist.net/forum/?topicid=1636486",
-        "completed": false
+        "completed": true
     },
     {
         "title": "Series-Per-2Days",
