@@ -4342,7 +4342,7 @@
         "title": "Martial Arts",
         "hof_url": "https://anime.jhiday.net/hof/challenge/martialArts",
         "mal_url": "https://myanimelist.net/forum/?topicid=1810487",
-        "completed": true,
+        "completed": false,
         "category": "Genre",
         "num_difficulties": 1,
         "num_runs": 1,
@@ -4629,7 +4629,7 @@
         "title": "Police Cars",
         "hof_url": "https://anime.jhiday.net/hof/challenge/policeCars",
         "mal_url": "https://myanimelist.net/forum/?topicid=1811548",
-        "completed": true,
+        "completed": false,
         "category": "Genre",
         "num_difficulties": 1,
         "num_runs": 1,
@@ -13263,7 +13263,7 @@
         "title": "GaoGaiGar",
         "hof_url": "https://anime.jhiday.net/hof/challenge/gaoGaiGar",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=50#msg55214113",
-        "completed": false,
+        "completed": true,
         "category": "Series Collections",
         "num_difficulties": 1,
         "num_runs": 1,
@@ -18069,24 +18069,24 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/UhNSoWw.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "https://i.imgur.com/qn2nRGj.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/1PBqaiI.png"
                     }
                 ]
             },
             {
                 "num_run": 2,
-                "topic": null,
+                "topic": "https://myanimelist.net/forum/?topicid=1706932&msgid=69699658#msg69699658",
                 "difficulties": [
                     {
                         "num_difficulty": 1,

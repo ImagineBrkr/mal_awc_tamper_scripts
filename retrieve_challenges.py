@@ -262,7 +262,8 @@ def generate_bbcode_by_category(category):
             challenge_with_hyphens = clean_title(challenge['title'])
             topic = run["topic"]
 
-            topic_code = f"[url={topic}]" if topic else f"[url={URL_PLACEHOLDER}{challenge_with_hyphens} challenge={challenge_with_hyphens} run={run['num_run']}]"
+            topic_code = f"[url={topic}" if topic else f"[url={challenge['mal_url']}#{challenge_with_hyphens}" 
+            topic_code += f" challenge={challenge_with_hyphens} run={run['num_run']}]"
 
             for difficulty in run["difficulties"]:
                 badge = difficulty["badge"]
@@ -302,7 +303,8 @@ def generate_bbcode_by_category(category):
     return bbcode
 
 def print_bbcode_for_all_categories():
-    categories = ["Statistics", "Miscellaneous", "Limited", "Monthly", "Series Collections",
+    categories = ["Year", "Franchise", "Creator", "Studios", "Genre", "Theme", "Characters", "Type",
+                "Statistics", "Miscellaneous", "Limited", "Monthly", "Series Collections",
                   "Creator Collections", "Staff Collections", "Monthly Anime Club Collections",
                   "Anime Watching Challenge Staff Collections", "Anime Guild Collections", "Affiliates Collections"]
     for category in categories:
