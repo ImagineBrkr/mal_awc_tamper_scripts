@@ -337,5 +337,4 @@ def main():
 
 
 if __name__ == "__main__":
-    challenges_to_json()
     main()

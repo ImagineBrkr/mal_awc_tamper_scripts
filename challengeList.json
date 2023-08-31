@@ -1335,7 +1335,7 @@
         "title": "Seiyuu",
         "hof_url": "https://anime.jhiday.net/hof/challenge/seiyuu",
         "mal_url": "https://myanimelist.net/forum/?topicid=1494245",
-        "completed": false,
+        "completed": true,
         "category": "Creator",
         "num_difficulties": 1,
         "num_runs": 4,
@@ -13292,12 +13292,12 @@
         "runs": [
             {
                 "num_run": 1,
-                "topic": null,
+                "topic": "https://myanimelist.net/forum/?topicid=1489554&msgid=52756922&show=150#msg52756922",
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "https://i.imgur.com/Ke81d2e.gif"
                     }
                 ]
             }
