@@ -124,29 +124,50 @@ def save_challenges_sot(challenges: list[dict]):
 
         return challenge
 
+    def update_runs(challenge: dict):
+        # Obtén la lista de runs existente o inicializa una lista vacía si no existe
+        runs = challenge.get("runs", [])
+        
+        # 1. Si num_runs aumenta
+        while len(runs) < challenge["num_runs"]:
+            runs.append({
+                "num_run": len(runs) + 1,
+                "topic": None,
+                "difficulties": []
+            })
+        
+        # 2. Si num_runs disminuye
+        while len(runs) > challenge["num_runs"]:
+            runs.pop()
+        
+        for run in runs:
+            # 3. Si num_difficulties aumenta en un run específico
+            while len(run["difficulties"]) < challenge["num_difficulties"]:
+                run["difficulties"].append({
+                    'num_difficulty': len(run["difficulties"]) + 1,
+                    "completed": False,
+                    "badge": None
+                })
+            
+            # 4. Si num_difficulties disminuye en un run específico
+            while len(run["difficulties"]) > challenge["num_difficulties"]:
+                run["difficulties"].pop()
+
+            # Si badge no es None, entonces completed es True
+            for difficulty in run["difficulties"]:
+                if difficulty["badge"] is not None:
+                    difficulty["completed"] = True
+
+    
+        challenge["runs"] = runs
+        return challenge
+
     for challenge in challenges:
 
         if not "completed" in challenge.keys():
             challenge["completed"] = False
 
-        if not "runs" in challenge.keys():
-            runs = []
-            for num_run in range(challenge["num_runs"]):
-                run = {
-                    "num_run": num_run + 1,
-                    "topic": None
-                }
-                difficulties = []
-                for num_difficulty in range(challenge["num_difficulties"]):
-                    difficulty = {
-                        'num_difficulty': num_difficulty + 1,
-                        "completed": False,
-                        "badge": None
-                    }
-                    difficulties.append(difficulty)
-                run["difficulties"] = difficulties
-                runs.append(run)
-            challenge["runs"] = runs
+        challenge = update_runs(challenge)
 
     challenges = sorted(challenges, key=sort_key)
 
@@ -312,10 +333,9 @@ def print_bbcode_for_all_categories():
         print('\n\n')
 
 def main():
-    challenges = retrieve_challenges_sot()
-    save_challenges_sot(challenges)
     print_bbcode_for_all_categories()
 
 
 if __name__ == "__main__":
+    challenges_to_json()
     main()

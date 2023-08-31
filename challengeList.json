@@ -212,7 +212,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/OtYV4Co.png"
                     }
                 ]
@@ -454,7 +454,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/HmOOD3D.png"
                     }
                 ]
@@ -652,22 +652,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/VtXRbKY.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/914KBT7.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/YhC5gRQ.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/UKY4Cz3.png"
                     }
                 ]
@@ -689,22 +689,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/LijP92j.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/RuwSJOj.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/OOc1770.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/ep0tB9X.png"
                     }
                 ]
@@ -715,22 +715,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/ZryJYJJ.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/E9q2VI6.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/bSapkIo.gif"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Y4d9eDK.gif"
                     }
                 ]
@@ -752,22 +752,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/zVUA42U.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/uvLFIUF.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/dtS5OV0.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/xTuJsfv.png"
                     }
                 ]
@@ -804,7 +804,7 @@
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/YDZSHpt.png"
                     }
                 ]
@@ -841,7 +841,7 @@
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Tk5XNTv.gif"
                     }
                 ]
@@ -863,22 +863,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/mblzdKV.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/UM166Wl.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/Qc6nJpw.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/9GiIClh.png"
                     }
                 ]
@@ -904,7 +904,7 @@
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/MGk95Gi.gif"
                     }
                 ]
@@ -926,22 +926,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/lcis8Se.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/mGbHQ4f.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/8enB8PC.gif"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/u9pdHep.gif"
                     }
                 ]
@@ -963,17 +963,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/kLBefcj.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/SvfBxrt.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/rshovlW.png"
                     }
                 ]
@@ -984,17 +984,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/OAKItKS.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/aT2cUod.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/byeNu4g.gif"
                     }
                 ]
@@ -1794,7 +1794,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/iMHK2yJ.gif"
                     }
                 ]
@@ -2300,7 +2300,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Xv6njEi.gif"
                     }
                 ]
@@ -2476,7 +2476,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/LkFqPLv.png"
                     }
                 ]
@@ -2487,7 +2487,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/MCdBSvG.png"
                     }
                 ]
@@ -2498,7 +2498,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/CN8gGju.png"
                     }
                 ]
@@ -2520,7 +2520,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/6kqrpDh.png"
                     }
                 ]
@@ -2531,7 +2531,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/zguuA5F.png"
                     }
                 ]
@@ -2542,7 +2542,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/xpX0cGP.png"
                     }
                 ]
@@ -2564,7 +2564,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/W4Belaq.png"
                     }
                 ]
@@ -2575,7 +2575,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/ok7261r.png"
                     }
                 ]
@@ -2586,7 +2586,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/vNaf6cM.png"
                     }
                 ]
@@ -2608,7 +2608,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/8WhsbZ9.png"
                     }
                 ]
@@ -2619,7 +2619,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/XQBxt51.png"
                     }
                 ]
@@ -2630,7 +2630,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/ON26NtW.png"
                     }
                 ]
@@ -2652,7 +2652,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/wz8aE1g.png"
                     }
                 ]
@@ -2663,7 +2663,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/UGLb0oE.png"
                     }
                 ]
@@ -2674,7 +2674,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/XIBkmSD.png"
                     }
                 ]
@@ -2696,7 +2696,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/EFTlAEp.png"
                     }
                 ]
@@ -2707,7 +2707,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/NGTMofD.png"
                     }
                 ]
@@ -2718,7 +2718,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/qDoWLzq.png"
                     }
                 ]
@@ -2740,7 +2740,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/9E45C6V.png"
                     }
                 ]
@@ -2751,7 +2751,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/jP3oK8K.png"
                     }
                 ]
@@ -2762,7 +2762,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/z0tCVgS.png"
                     }
                 ]
@@ -2784,7 +2784,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/dAxpJ8z.png"
                     }
                 ]
@@ -2795,7 +2795,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/FWZWvWM.png"
                     }
                 ]
@@ -2806,7 +2806,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/0nw0QcI.png"
                     }
                 ]
@@ -4193,17 +4193,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/SgHUGHf.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/6tgN05D.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/oLrjJe1.png"
                     }
                 ]
@@ -4246,17 +4246,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/3oGWWOW.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/sWghtRX.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/mJkWp7l.png"
                     }
                 ]
@@ -4277,7 +4277,7 @@
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/oCUd1Nr.gif"
                     }
                 ]
@@ -4299,7 +4299,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/TOhIzJx.gif"
                     }
                 ]
@@ -4321,17 +4321,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/7eBkLnX.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/0wrkYd4.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/oz6q5E4.gif"
                     }
                 ]
@@ -4345,7 +4345,7 @@
         "completed": false,
         "category": "Genre",
         "num_difficulties": 1,
-        "num_runs": 1,
+        "num_runs": 2,
         "runs": [
             {
                 "num_run": 1,
@@ -4353,8 +4353,19 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/oe1gysa.png"
+                    }
+                ]
+            },
+            {
+                "num_run": 2,
+                "topic": null,
+                "difficulties": [
+                    {
+                        "num_difficulty": 1,
+                        "completed": false,
+                        "badge": null
                     }
                 ]
             }
@@ -4375,17 +4386,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/jnxI5vu.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/bWybDd7.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/GcmPrpa.png"
                     }
                 ]
@@ -4428,17 +4439,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/LiwZ2v6.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/P8BszPd.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/hp5omoT.png"
                     }
                 ]
@@ -4459,7 +4470,7 @@
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/ApgL2yS.gif"
                     }
                 ]
@@ -4481,17 +4492,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/pnMtVtm.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Fut3vji.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/bhZFhYv.png"
                     }
                 ]
@@ -4534,17 +4545,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/J16veDY.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/hpNMSs3.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/V2RDsWX.png"
                     }
                 ]
@@ -4555,17 +4566,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/lf2HavK.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/rumZaUD.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/bBy4ZFf.gif"
                     }
                 ]
@@ -4587,17 +4598,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "null"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/NlkjhXJ.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/3VMSC7Z.png"
                     }
                 ]
@@ -4629,10 +4640,10 @@
         "title": "Police Cars",
         "hof_url": "https://anime.jhiday.net/hof/challenge/policeCars",
         "mal_url": "https://myanimelist.net/forum/?topicid=1811548",
-        "completed": false,
+        "completed": true,
         "category": "Genre",
         "num_difficulties": 1,
-        "num_runs": 1,
+        "num_runs": 2,
         "runs": [
             {
                 "num_run": 1,
@@ -4640,8 +4651,19 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/hvUMNcX.png"
+                    }
+                ]
+            },
+            {
+                "num_run": 2,
+                "topic": null,
+                "difficulties": [
+                    {
+                        "num_difficulty": 1,
+                        "completed": false,
+                        "badge": null
                     }
                 ]
             }
@@ -4662,7 +4684,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/dN2DWX9.png"
                     }
                 ]
@@ -4673,7 +4695,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/M9js2Pf.gif"
                     }
                 ]
@@ -4695,17 +4717,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/5X79GM3.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/5YQ96Rx.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/GF7krWJ.png"
                     }
                 ]
@@ -4716,17 +4738,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/XG7w0Cm.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/CR6Ms5A.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/DNVQ7yj.gif"
                     }
                 ]
@@ -4742,12 +4764,12 @@
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/9jWp70x.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/GNpIZhK.gif"
                     }
                 ]
@@ -4769,7 +4791,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/AIk9gq3.png"
                     }
                 ]
@@ -4802,17 +4824,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Ahh8t9y.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/S9U9M2c.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/HePkJrO.png"
                     }
                 ]
@@ -4823,17 +4845,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/kzd2hu7.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/iENhqDO.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/GkRB1yW.gif"
                     }
                 ]
@@ -4855,17 +4877,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/gyHLDK0.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/TQydoSQ.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/hRVbuYF.png"
                     }
                 ]
@@ -4876,17 +4898,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/tyiQnid.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/3e1qUIB.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/lKXWmaZ.gif"
                     }
                 ]
@@ -4897,17 +4919,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/sCcim1E.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/ZT226UR.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/de8SPNI.gif"
                     }
                 ]
@@ -4973,17 +4995,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/RgNLjoP.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/lykGwTi.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/3aY3Pks.png"
                     }
                 ]
@@ -4994,17 +5016,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/MzQBr5i.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/8ylguiU.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/H4F7EKU.gif"
                     }
                 ]
@@ -5015,17 +5037,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/IgEEAGB.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Jw8xF7l.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/4h4oHlC.gif"
                     }
                 ]
@@ -5047,7 +5069,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/GqtEWom.gif"
                     }
                 ]
@@ -5122,17 +5144,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/mbkq37V.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/OAeynGE.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/VOigLg3.png"
                     }
                 ]
@@ -5175,17 +5197,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/33MaKlo.jpg"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/iQ9pLgD.jpg"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/kRyKnOl.jpg"
                     }
                 ]
@@ -5206,7 +5228,7 @@
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/0oBS0eH.gif"
                     }
                 ]
@@ -5228,17 +5250,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/pHwSYvJ.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/xXWiMYU.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/IZ2J2ZS.png"
                     }
                 ]
@@ -5254,12 +5276,12 @@
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/eaJsFQs.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/lLzqceE.gif"
                     }
                 ]
@@ -5281,7 +5303,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/pZgs2F8.png"
                     }
                 ]
@@ -5303,7 +5325,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/3uPI1t5.png"
                     }
                 ]
@@ -5336,12 +5358,12 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwI21BigweC2LxNX5h_BqPlk"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwDZ_ezG3XuBjAs3neChmLoM"
                     },
                     {
@@ -5388,12 +5410,12 @@
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/zvoIGdV.jpg"
                     },
                     {
                         "num_difficulty": 5,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/ebtLgxx.jpg"
                     }
                 ]
@@ -5430,7 +5452,7 @@
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/ORpfkkQ.png"
                     }
                 ]
@@ -5472,12 +5494,12 @@
                     },
                     {
                         "num_difficulty": 5,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/ZCWK0iv.png"
                     },
                     {
                         "num_difficulty": 6,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/ZPrphUB.png"
                     }
                 ]
@@ -5531,7 +5553,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwKAeOGUY3GHxlkecmIygNqI"
                     },
                     {
@@ -5563,7 +5585,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://imgur.com/jvUEjAJ.png"
                     },
                     {
@@ -5625,27 +5647,27 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwHVph1wG6KrC81wlS_PuMcQ"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwJI6COWVXWLq7N3P0x_84O4"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwN6DWWYc3VVAU1ip7g-hCRk"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwHxNskNWcC0J1jkVLIU5baA"
                     },
                     {
                         "num_difficulty": 5,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwJR3xGcoCOyGlHVlAcqgolQ"
                     }
                 ]
@@ -6485,12 +6507,12 @@
                     },
                     {
                         "num_difficulty": 12,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/bBLB2cV.png"
                     },
                     {
                         "num_difficulty": 13,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/KYsagH0.png"
                     }
                 ]
@@ -6512,27 +6534,27 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwEHFFWJlYcxpXUdJeC3qTmI"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwCHcBnVlZNJQw5ceGJd6nqo"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwA8zx5StLWuzlk3YZrEP_DM"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwPqYtvGE7AbLIqK_Z3kx_cQ"
                     },
                     {
                         "num_difficulty": 5,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://myanimelist.net/forum/?topicid=1854166&show=0#msg60299809"
                     },
                     {
@@ -6601,7 +6623,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/HBSjpFO.png"
                     },
                     {
@@ -6732,7 +6754,7 @@
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/iT9mLHl.png"
                     },
                     {
@@ -6781,7 +6803,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/gbDMe9F.png"
                     },
                     {
@@ -6840,7 +6862,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/yCHrxjyj0lwjmGEXjAnOyNf0d_ggP66bAEJ_E_5whb4"
                     },
                     {
@@ -7682,7 +7704,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/DI6nrUU.gif"
                     }
                 ]
@@ -7770,22 +7792,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/zEzD3Mu.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/EsB2GfR.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/XRMM80o.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/B75Rbmu.gif"
                     }
                 ]
@@ -7796,12 +7818,12 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/cygSRZK.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/c8MKlV0.gif"
                     },
                     {
@@ -7925,22 +7947,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/mC9e5CP.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/4HZzcSJ.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/zIrhQ7S.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/pI4Sin2.png"
                     }
                 ]
@@ -7951,22 +7973,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/7AQbEPB.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/gkWI3LZ.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/WdFENuo.gif"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/oQYMZQq.gif"
                     }
                 ]
@@ -7988,22 +8010,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/DgKWV2f.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/ZKmbGsa.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/P2pEA5t.gif"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/u1KApbu.gif"
                     }
                 ]
@@ -8025,17 +8047,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/XymIcTi.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/EPmNouf.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/0R4nOCd.png"
                     }
                 ]
@@ -8046,17 +8068,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/eTS41p5.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/1rj4TAf.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/MUiJwNp.gif"
                     }
                 ]
@@ -8067,17 +8089,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/CPeiOH3.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/9nLNQQn.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/e6zDBPE.gif"
                     }
                 ]
@@ -8099,7 +8121,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/qe0kraj.gif"
                     },
                     {
@@ -8109,7 +8131,7 @@
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/cupXmwB.gif"
                     },
                     {
@@ -8136,22 +8158,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/cPJcVs8.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/NixLN99.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/u1Enmwg.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/eUYzPCh.png"
                     }
                 ]
@@ -8162,22 +8184,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/XGdf5g6.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/bk4HkGt.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/fbQjzyO.gif"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/QCezqW1.gif"
                     }
                 ]
@@ -8214,7 +8236,7 @@
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/nWyBVyW.gif"
                     }
                 ]
@@ -8246,12 +8268,12 @@
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/TUn8sFs.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/gkgNqGS.png"
                     }
                 ]
@@ -8277,7 +8299,7 @@
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/UaU1lf8.png"
                     }
                 ]
@@ -8335,7 +8357,7 @@
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/1GVcTcl.jpg"
                     }
                 ]
@@ -8420,22 +8442,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/ALe2BOX.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/MwIaErc.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/lRY6Q9L.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/y8jrRLk.png"
                     }
                 ]
@@ -8446,22 +8468,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/Xg3wg7a.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/Mfm937f.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/GbPujx4.gif"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/q5Xwr53.gif"
                     }
                 ]
@@ -8483,17 +8505,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/MSstan5.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/dEDGPay.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/MycJOHi.png"
                     }
                 ]
@@ -8504,17 +8526,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/at263rp.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/Tqevf7U.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/2A2eytO.gif"
                     }
                 ]
@@ -8536,17 +8558,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/wdqUDHp.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/X8hGpR0.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/XwcpaJF.png"
                     }
                 ]
@@ -8557,17 +8579,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/2KN7HSB.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/qKNkscp.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/MW1bch9.gif"
                     }
                 ]
@@ -8604,7 +8626,7 @@
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/lawvW29.png"
                     },
                     {
@@ -8631,22 +8653,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/VbpORZd.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/ad1SQVm.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/9rrleVk.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/NQPZY9c.png"
                     }
                 ]
@@ -8668,22 +8690,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/SXZLu6H.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/s9IaYVb.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Ag6D766.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/C8VZ5oR.png"
                     }
                 ]
@@ -8741,12 +8763,12 @@
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/ygJ50jW.gif"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/eEKgwa0.gif"
                     }
                 ]
@@ -8834,7 +8856,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwC8Q8qCe6BzjGPBXJaSm-Rxmh_Eb5RTW8JMc5xR1n4k0"
                     }
                 ]
@@ -8856,7 +8878,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/459824a.gif"
                     }
                 ]
@@ -8878,7 +8900,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwOD2Lv7NSHxy_kQyoZlQv0M"
                     }
                 ]
@@ -8944,7 +8966,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwNOQz4Pa3ZdszVHAPPCGC-I"
                     }
                 ]
@@ -8966,7 +8988,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwHjcwzo6h7COirnC9npmpOg"
                     }
                 ]
@@ -8988,7 +9010,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwHAPKqKsum0xGFRwZrqPa4o"
                     }
                 ]
@@ -9010,7 +9032,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwHlcVg10sOVpLRNqnpQ4Tq8"
                     }
                 ]
@@ -9032,7 +9054,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwKPAOOaQJ29FuEaF0I8bUsg"
                     },
                     {
@@ -9059,7 +9081,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwLQewrjHStvXzXZ3QuMW2dI"
                     }
                 ]
@@ -9081,7 +9103,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwPUjoBL50I3JxO8dlSwj_wA"
                     }
                 ]
@@ -9103,7 +9125,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwP31H9eHe2ZDyJAdsbB0zO8"
                     }
                 ]
@@ -9125,7 +9147,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwMggUpQ1dG8q1pF7MFAH8Bo"
                     }
                 ]
@@ -9147,7 +9169,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/NjwEXB6.gif"
                     }
                 ]
@@ -9169,7 +9191,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/6AiChaK.gif"
                     }
                 ]
@@ -9191,7 +9213,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/7vSBILD.png"
                     }
                 ]
@@ -9213,7 +9235,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/dGmX4dd.gif"
                     }
                 ]
@@ -9235,7 +9257,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/mr7v6yw.gif"
                     },
                     {
@@ -9262,7 +9284,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/56QEvoM.gif"
                     }
                 ]
@@ -9284,7 +9306,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Sf6Nlgp.gif"
                     }
                 ]
@@ -9306,7 +9328,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/96OIoHA.gif"
                     }
                 ]
@@ -9328,7 +9350,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/A4LqXhm.gif"
                     }
                 ]
@@ -9350,7 +9372,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/7pcaGyf.gif"
                     }
                 ]
@@ -9372,7 +9394,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/rKUBlXE.gif"
                     }
                 ]
@@ -9394,7 +9416,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/xYIuWa4.gif"
                     }
                 ]
@@ -9416,7 +9438,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/5FUSDQD.gif"
                     }
                 ]
@@ -9438,7 +9460,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/2PRRPeE.gif"
                     }
                 ]
@@ -9460,7 +9482,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/KUAd0hb.gif"
                     }
                 ]
@@ -9482,7 +9504,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/ZQ8e4lD.gif"
                     }
                 ]
@@ -9504,7 +9526,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/dKlBPGL.gif"
                     }
                 ]
@@ -9526,7 +9548,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/6LeVyHE.gif"
                     }
                 ]
@@ -9548,7 +9570,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/JPhuOWC.gif"
                     }
                 ]
@@ -9570,7 +9592,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/8ChICPR.gif"
                     }
                 ]
@@ -9592,7 +9614,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/mtCW2IU.gif"
                     }
                 ]
@@ -9614,7 +9636,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/PEYo0vB.gif"
                     }
                 ]
@@ -9636,7 +9658,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/8XuCJXs.gif"
                     }
                 ]
@@ -9658,7 +9680,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/YdnuCh5.gif"
                     }
                 ]
@@ -9680,7 +9702,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/XJEUBJW.gif"
                     }
                 ]
@@ -9702,7 +9724,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://imgur.com/zK5xuyt.gif"
                     }
                 ]
@@ -9724,7 +9746,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/uGB9vUG.gif"
                     }
                 ]
@@ -9746,7 +9768,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://imgur.com/b0KHVdT.gif"
                     }
                 ]
@@ -9768,7 +9790,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/8nex8cI.gif"
                     }
                 ]
@@ -9790,7 +9812,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://imgur.com/zsw2tRm.gif"
                     }
                 ]
@@ -9812,7 +9834,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/4XavF2k.gif"
                     }
                 ]
@@ -10604,17 +10626,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/gm6Gw6B.jpg"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/vvm7igf.jpg"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/ravhWEG.jpg"
                     }
                 ]
@@ -10636,17 +10658,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Pl6Q1cn.jpg"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/W48BlOs.jpg"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/28aobgl.jpg"
                     }
                 ]
@@ -10668,17 +10690,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/c2WwcrN.jpg"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/qIVb7Go.jpg"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/YrqSF1J.jpg"
                     }
                 ]
@@ -10700,17 +10722,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Ksgt5ES.jpg"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/2sK953z.jpg"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/TonBkSK.jpg"
                     }
                 ]
@@ -10732,22 +10754,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/MdY4Kh5.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Am6G9DW.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/2cYF07E.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/KIps9Qs.gif"
                     }
                 ]
@@ -10769,22 +10791,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/f6wfkoe.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/plBNrFb.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/71zG7Vu.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/SRJ9345.gif"
                     }
                 ]
@@ -10806,22 +10828,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/iNUiV1z.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/cAmUINq.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/oiDKonD.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/JUbz4YU.png"
                     }
                 ]
@@ -10953,7 +10975,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/NB4VSRn.png"
                     }
                 ]
@@ -11107,7 +11129,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/k19aKO8.png"
                     }
                 ]
@@ -11118,7 +11140,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/lOrXGIb.png"
                     }
                 ]
@@ -11129,7 +11151,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/kseBGpi.png"
                     }
                 ]
@@ -11151,7 +11173,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/ONBBGXv.png"
                     }
                 ]
@@ -11162,7 +11184,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/oZh1Xkh.png"
                     }
                 ]
@@ -11173,7 +11195,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/GD532Ib.png"
                     }
                 ]
@@ -11195,7 +11217,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/TqTifvT.png"
                     }
                 ]
@@ -11206,7 +11228,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/pBsvK3W.png"
                     }
                 ]
@@ -11217,7 +11239,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/BNgf4sC.png"
                     }
                 ]
@@ -11239,7 +11261,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/23iDkzp.png"
                     }
                 ]
@@ -11250,7 +11272,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/4eoIzqZ.png"
                     }
                 ]
@@ -11261,7 +11283,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/fTSUUNe.png"
                     }
                 ]
@@ -11283,7 +11305,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/AXn4tHO.png/"
                     }
                 ]
@@ -11294,7 +11316,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/2sTWW7D.png"
                     }
                 ]
@@ -11305,7 +11327,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/3pydOQj.png"
                     }
                 ]
@@ -11327,7 +11349,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/ELhHylF.png"
                     }
                 ]
@@ -11338,7 +11360,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/1evGN40.png"
                     }
                 ]
@@ -11349,7 +11371,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/xn0rBIe.png"
                     }
                 ]
@@ -11371,7 +11393,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/gfUUNPs.png"
                     }
                 ]
@@ -11382,7 +11404,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/R5a33Bg.png"
                     }
                 ]
@@ -11393,7 +11415,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/ZVMc0LF.png"
                     }
                 ]
@@ -11404,7 +11426,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/JpmVhAq.png"
                     }
                 ]
@@ -11426,7 +11448,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/y8kVk3k.png"
                     }
                 ]
@@ -11437,7 +11459,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/88k0vXW.png"
                     }
                 ]
@@ -11448,7 +11470,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/LtFRksa.png"
                     }
                 ]
@@ -11470,7 +11492,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/PK7XJaJ.png"
                     }
                 ]
@@ -11481,7 +11503,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/JpbHHgN.png"
                     }
                 ]
@@ -11492,7 +11514,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/RhLFFwt.png"
                     }
                 ]
@@ -11514,7 +11536,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/oBL2OlG.png"
                     }
                 ]
@@ -11525,7 +11547,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/VpbtLKY.png"
                     }
                 ]
@@ -11536,7 +11558,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/Vt2KOQF.png"
                     }
                 ]
@@ -11624,7 +11646,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/dnB8GsC.png"
                     }
                 ]
@@ -11635,7 +11657,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/r0mlayn.png"
                     }
                 ]
@@ -11657,7 +11679,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/BAWzys5.png"
                     }
                 ]
@@ -11668,7 +11690,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/hkctruB.png"
                     }
                 ]
@@ -11690,7 +11712,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/zvnAAbx.png"
                     }
                 ]
@@ -11701,7 +11723,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/vIUf3wJ.png"
                     }
                 ]
@@ -11723,7 +11745,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/yUhZtzR.png"
                     }
                 ]
@@ -11734,7 +11756,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/w1QKSqX.png"
                     }
                 ]
@@ -11756,7 +11778,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/CKUDR6H.png"
                     }
                 ]
@@ -11767,7 +11789,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/KwE3GCL.png"
                     }
                 ]
@@ -11789,7 +11811,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/15uCfjh.png"
                     }
                 ]
@@ -11800,7 +11822,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/EbiSwx7.png"
                     }
                 ]
@@ -11822,7 +11844,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/SOSKmXD.png"
                     }
                 ]
@@ -11833,7 +11855,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/EQXQq12.png"
                     }
                 ]
@@ -11855,7 +11877,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/XuYAvV7.png"
                     }
                 ]
@@ -11866,7 +11888,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/a3uGACk.png"
                     }
                 ]
@@ -11888,7 +11910,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/v3JZF2C.png"
                     }
                 ]
@@ -11899,7 +11921,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/To5zUt6.png"
                     }
                 ]
@@ -11921,7 +11943,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/SPJwT90.png"
                     }
                 ]
@@ -11932,7 +11954,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/NQMvfPV.png"
                     }
                 ]
@@ -11954,7 +11976,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/b7ANccz.png"
                     }
                 ]
@@ -11965,7 +11987,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/iJ7Kx4x.png"
                     }
                 ]
@@ -11987,7 +12009,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/3rdxU2i.png"
                     }
                 ]
@@ -11998,7 +12020,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/g9LnRT2.png"
                     }
                 ]
@@ -12020,7 +12042,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Wo0sw7e.png"
                     }
                 ]
@@ -12031,7 +12053,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/sLv25gv.png"
                     }
                 ]
@@ -12053,7 +12075,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/qcgXBFc.png"
                     }
                 ]
@@ -12064,7 +12086,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/qogk65Y.png"
                     }
                 ]
@@ -12086,7 +12108,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/GIKCuHt.png"
                     }
                 ]
@@ -12097,7 +12119,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/sANGUxQ.png"
                     }
                 ]
@@ -12119,7 +12141,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/5nOINnA.png"
                     }
                 ]
@@ -12130,7 +12152,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/0eXrFIt.png"
                     }
                 ]
@@ -12152,7 +12174,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/gYv2vAx.png"
                     }
                 ]
@@ -12163,7 +12185,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/iOQpmf6.png"
                     }
                 ]
@@ -12185,7 +12207,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/fZljnDK.png"
                     }
                 ]
@@ -12196,7 +12218,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/vOI1Dsk.png"
                     }
                 ]
@@ -12218,7 +12240,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/hdIsQXU.png"
                     }
                 ]
@@ -12229,7 +12251,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/mYelua8.png"
                     }
                 ]
@@ -12251,7 +12273,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/TXpwOej.png"
                     }
                 ]
@@ -12262,7 +12284,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/dYWz9nA.png"
                     }
                 ]
@@ -12284,7 +12306,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/qfBbFXW.png"
                     }
                 ]
@@ -12295,7 +12317,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/4ZMl2Wo.png"
                     }
                 ]
@@ -12317,7 +12339,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Lo6nKHz.png"
                     }
                 ]
@@ -12328,7 +12350,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/CzRpjQj.png"
                     }
                 ]
@@ -12350,7 +12372,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/WMa186U.png"
                     }
                 ]
@@ -12361,7 +12383,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/GBNUbS5.png"
                     }
                 ]
@@ -12383,7 +12405,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/p8CaNiV.png"
                     }
                 ]
@@ -12394,7 +12416,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/yMnZM1g.png"
                     }
                 ]
@@ -12416,7 +12438,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/BcLxhUe.png"
                     }
                 ]
@@ -12427,7 +12449,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/FLs2sLI.png"
                     }
                 ]
@@ -12449,7 +12471,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/qrZBCad.png"
                     }
                 ]
@@ -12460,7 +12482,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/SJLsrYf.png"
                     }
                 ]
@@ -12482,7 +12504,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/r9lDvOd.png"
                     }
                 ]
@@ -12493,7 +12515,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/0ZVKpPK.png"
                     }
                 ]
@@ -12515,7 +12537,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/en1FLJ0.png"
                     }
                 ]
@@ -12526,7 +12548,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/J0neqMF.png"
                     }
                 ]
@@ -12548,7 +12570,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/MByHMM5.png"
                     }
                 ]
@@ -12581,7 +12603,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/uZoOR2F.png"
                     }
                 ]
@@ -12592,7 +12614,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/iOFBKxY.png"
                     }
                 ]
@@ -12614,7 +12636,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/SdHkkis.png"
                     }
                 ]
@@ -12625,7 +12647,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/76eMEmS.png"
                     }
                 ]
@@ -12647,7 +12669,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/wrt5Wvd.png"
                     }
                 ]
@@ -12702,7 +12724,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/3LnL8W6.gif"
                     }
                 ]
@@ -12724,7 +12746,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/TyEZSV5.gif"
                     }
                 ]
@@ -12746,7 +12768,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/gmEfUz2.gif"
                     }
                 ]
@@ -12856,7 +12878,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/G6btohU.gif"
                     }
                 ]
@@ -12922,7 +12944,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/6yvpKSY.gif"
                     }
                 ]
@@ -12966,7 +12988,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/2NORNv3.gif"
                     }
                 ]
@@ -13076,7 +13098,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/x4lkdDR.gif"
                     }
                 ]
@@ -13098,7 +13120,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/2pkYStB.gif"
                     }
                 ]
@@ -13164,7 +13186,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/kIXL4PS.gif"
                     }
                 ]
@@ -13340,7 +13362,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/D4hfkBA.gif"
                     }
                 ]
@@ -13362,7 +13384,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/AHnNzEp.gif"
                     }
                 ]
@@ -13516,7 +13538,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/wUH6TU7.gif"
                     }
                 ]
@@ -13538,7 +13560,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/2dx3FZY.gif"
                     }
                 ]
@@ -13604,7 +13626,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/xUfVjBt.gif"
                     }
                 ]
@@ -13692,7 +13714,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/xLIS1zQ.gif"
                     }
                 ]
@@ -13736,7 +13758,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Z3Ob8Ef.gif"
                     }
                 ]
@@ -13780,7 +13802,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/YG01dEh.gif"
                     }
                 ]
@@ -13846,7 +13868,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/7Y9yaZf.gif"
                     }
                 ]
@@ -13890,7 +13912,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/p8bWRwt.gif"
                     }
                 ]
@@ -13964,6 +13986,28 @@
         ]
     },
     {
+        "title": "Monster Strike",
+        "hof_url": "https://anime.jhiday.net/hof/challenge/monsterStrike",
+        "category": "Series Collections",
+        "num_difficulties": 1,
+        "num_runs": 1,
+        "mal_url": "https://myanimelist.net/forum/?topicid=69736748&show=150#msg69736748",
+        "completed": false,
+        "runs": [
+            {
+                "num_run": 1,
+                "topic": null,
+                "difficulties": [
+                    {
+                        "num_difficulty": 1,
+                        "completed": false,
+                        "badge": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "Nanoha",
         "hof_url": "https://anime.jhiday.net/hof/challenge/nanoha",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=50#msg53129850",
@@ -14000,7 +14044,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/sGWIWDR.gif"
                     }
                 ]
@@ -14030,6 +14074,28 @@
         ]
     },
     {
+        "title": "Osomatsu",
+        "hof_url": "https://anime.jhiday.net/hof/challenge/osomatsu",
+        "category": "Series Collections",
+        "num_difficulties": 1,
+        "num_runs": 1,
+        "mal_url": "https://myanimelist.net/forum/?topicid=69737004&show=150#msg69737004",
+        "completed": false,
+        "runs": [
+            {
+                "num_run": 1,
+                "topic": null,
+                "difficulties": [
+                    {
+                        "num_difficulty": 1,
+                        "completed": false,
+                        "badge": null
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "title": "Overlord",
         "hof_url": "https://anime.jhiday.net/hof/challenge/overlord",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=100#msg57392549",
@@ -14044,7 +14110,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/AmNW3JQ.gif"
                     }
                 ]
@@ -14264,7 +14330,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/udQAiRd.gif"
                     }
                 ]
@@ -14330,7 +14396,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/mrZmK9U.gif"
                     }
                 ]
@@ -14352,7 +14418,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Bg1jNQQ.gif"
                     }
                 ]
@@ -14462,7 +14528,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/LeyjaGh.gif"
                     }
                 ]
@@ -14484,7 +14550,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Dnmi1Gh.gif"
                     }
                 ]
@@ -14528,7 +14594,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/eSrZKpL.gif"
                     }
                 ]
@@ -14616,7 +14682,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/EEel7HF.gif"
                     }
                 ]
@@ -14638,7 +14704,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/ILmR2Ym.gif"
                     }
                 ]
@@ -14968,7 +15034,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/IH5w9YZ.png"
                     }
                 ]
@@ -15386,7 +15452,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/idDIilp.png"
                     }
                 ]
@@ -15584,7 +15650,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/RbjlNMf.png"
                     }
                 ]
@@ -15616,7 +15682,7 @@
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/FyDShRF.png"
                     },
                     {
@@ -15691,17 +15757,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/Dc6UktF.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/xZyj4Ih.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/3yCjVvc.png"
                     }
                 ]
@@ -15712,17 +15778,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/1xXKU1R.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/ZbxqWQD.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/2wnDHsS.gif"
                     }
                 ]
@@ -15733,17 +15799,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/ewMQWhJ.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/rGeJwSp.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Zk2HjWI.gif"
                     }
                 ]
@@ -15765,17 +15831,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/Aw4sJ9y.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/3wQbu5r.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/05IComU.png"
                     }
                 ]
@@ -15786,17 +15852,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/YN60WOp.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/Y2mxtQZ.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/MZqdM3D.gif"
                     }
                 ]
@@ -15818,17 +15884,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/cYMKLzc.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/HdUEFdJ.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/yZIghIU.png"
                     }
                 ]
@@ -15839,17 +15905,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/UrdRLOj.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/rGxcABu.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/IP0sQYi.gif"
                     }
                 ]
@@ -15871,17 +15937,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/iXXICaL.png/demoe"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/rAtYZGP.png/demom"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/I4296jQ.png/demoh"
                     }
                 ]
@@ -15892,17 +15958,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/ke0RAwH.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/pbJU5BF.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/CBSoT7h.gif"
                     }
                 ]
@@ -16045,17 +16111,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/g21qcoQ.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/g21qcoQ.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/810VQcR.png"
                     }
                 ]
@@ -16120,22 +16186,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/snY4hl5.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/e33v1vp.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/gCTCBtL.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/ipoJb4S.png"
                     }
                 ]
@@ -16146,22 +16212,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/M1TPHA6.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/p4mV37E.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/LpjZePX.gif"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/evlf3to.gif"
                     }
                 ]
@@ -16183,22 +16249,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/7813oA0.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/WX98kmi.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/88YLice.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/nlDJAFd.png"
                     }
                 ]
@@ -16290,7 +16356,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/AoegtRy.gif"
                     }
                 ]
@@ -16312,17 +16378,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/9J8yvie.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/u61mGk8.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/imfijtm.png"
                     }
                 ]
@@ -16333,17 +16399,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/BTMHRlU.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Na72swV.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/jSIUIy6.gif"
                     }
                 ]
@@ -16387,17 +16453,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/bLkZfwY.jpg"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/OyTQH4t.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/flcyplt.jpg"
                     }
                 ]
@@ -16408,17 +16474,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Xx2hjLu.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/GgW4SET.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/I6knD03.gif"
                     }
                 ]
@@ -16440,7 +16506,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/H9qBO71.png"
                     }
                 ]
@@ -16451,7 +16517,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/rvxcfN4.gif"
                     }
                 ]
@@ -16517,7 +16583,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/l2sT9VU.png"
                     }
                 ]
@@ -16668,22 +16734,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/LvTu6Ie.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/u0ri1XJ.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/IBPGm9B.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/ZuWlGNg.png/UR_conq10"
                     }
                 ]
@@ -16694,22 +16760,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/5pdOPYG.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/nXmnbTj.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/rNV6QKq.gif"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/Yxny7pS.gif"
                     }
                 ]
@@ -17750,17 +17816,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/64Z886i.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/PAzYx5F.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/bbzA9F7.png"
                     }
                 ]
@@ -17813,7 +17879,7 @@
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/PwbvjnH.gif"
                     }
                 ]
@@ -17845,7 +17911,7 @@
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/uwpAGtR.gif"
                     }
                 ]
@@ -17882,7 +17948,7 @@
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/u1lnhfh.gif"
                     }
                 ]
@@ -17914,7 +17980,7 @@
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/x3TIqro.png"
                     }
                 ]
@@ -17936,22 +18002,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/dQ6jTjT.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/fBLYo6c.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/SwndCSb.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/fHfGpUv.png"
                     }
                 ]
@@ -17999,17 +18065,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/NKucol3.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/XpcjCdp.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/1Z4SE8l.gif"
                     },
                     {
@@ -18036,7 +18102,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/9hxx2ac.png"
                     }
                 ]
@@ -18047,7 +18113,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/VyJ2Iqc.gif"
                     }
                 ]
@@ -18132,7 +18198,7 @@
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/yYZsYPy.gif"
                     }
                 ]
@@ -18154,17 +18220,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/VoVOUYI.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Wfhq06h.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/oETO8MV.gif"
                     }
                 ]
@@ -18186,17 +18252,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/NgGpD7E.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/UUjHZ4T.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/GoqIHSo.png"
                     }
                 ]
@@ -18239,17 +18305,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Q9Fp5sr.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/l1rWenB.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/WWVCVB7.png"
                     }
                 ]
@@ -18365,7 +18431,7 @@
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/gDTFO6T.png"
                     }
                 ]
@@ -18387,17 +18453,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Op4l914.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/fceGwbx.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/VnNRibH.png"
                     }
                 ]
@@ -18492,7 +18558,7 @@
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/6AVnkrn.gif"
                     }
                 ]
@@ -18594,7 +18660,7 @@
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/LRWYSK8.gif"
                     }
                 ]
@@ -18626,7 +18692,7 @@
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/C1V53Ax.png"
                     }
                 ]
@@ -18669,7 +18735,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/pyMMgHc.gif"
                     }
                 ]
@@ -18735,7 +18801,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/oQ1VgGw.gif"
                     }
                 ]
@@ -18757,7 +18823,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/oeJnhqj.gif"
                     }
                 ]
@@ -18779,7 +18845,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Bbwan9j.gif"
                     }
                 ]
@@ -18801,7 +18867,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/egTC6Le.gif"
                     }
                 ]
@@ -18823,7 +18889,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/k7ajd7t.gif"
                     }
                 ]
@@ -18867,7 +18933,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/FwjTOB4.gif"
                     }
                 ]
@@ -18889,7 +18955,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/GSUJdkj.gif"
                     }
                 ]
@@ -18911,7 +18977,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/H9fYwZ8.gif"
                     }
                 ]
@@ -18955,7 +19021,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/jJbdsxH.gif"
                     }
                 ]
@@ -18977,7 +19043,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/primPNo.gif"
                     }
                 ]
@@ -18999,7 +19065,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/p7WFo3O.gif"
                     }
                 ]
@@ -19021,7 +19087,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/fBVrDNk.gif"
                     }
                 ]
@@ -19043,7 +19109,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/O2Jps3Z.gif"
                     }
                 ]
@@ -19065,7 +19131,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/7Q8ZOPK.gif"
                     }
                 ]
@@ -19087,7 +19153,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/cuYHxcN.gif"
                     }
                 ]
@@ -19109,7 +19175,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/u7TqHzE.gif"
                     }
                 ]
@@ -19131,7 +19197,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/8pcccrx.gif"
                     }
                 ]
@@ -19153,7 +19219,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Jrwwx83.gif"
                     }
                 ]
@@ -19175,7 +19241,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/yvugqEo.gif"
                     }
                 ]
@@ -19197,7 +19263,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/mrrDYLp.gif"
                     }
                 ]
@@ -19219,7 +19285,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/G52Fdrp.gif"
                     }
                 ]
@@ -19241,7 +19307,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/loabDEx.gif"
                     }
                 ]
@@ -19263,7 +19329,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/lysL7g5.gif"
                     }
                 ]
@@ -19285,7 +19351,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/LCYWQia.gif"
                     }
                 ]
@@ -19307,7 +19373,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/4apO1Ex.gif"
                     }
                 ]
@@ -19329,22 +19395,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/PzDnqVX.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/cqgUwNj.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/vkQB5SV.gif"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/hD27BA0.gif"
                     }
                 ]
@@ -19366,22 +19432,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/GbozpMv.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/gePrz1S.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/UFPGQ3D.gif"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Q6Z6XAp.gif"
                     }
                 ]
@@ -19403,22 +19469,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/XnHACXY.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/MiSZaZk.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/VOdJSSQ.gif"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/3GQwKN1.gif"
                     }
                 ]
@@ -19440,22 +19506,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/58ETgRC.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/EzkCKru.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/WEaA1uv.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/HWZoSWC.png"
                     }
                 ]
@@ -19503,7 +19569,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/OaVwPPu.png"
                     }
                 ]
@@ -19514,7 +19580,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/bw3opJr.gif"
                     }
                 ]
@@ -19525,7 +19591,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/XxebUiD.gif"
                     }
                 ]
@@ -19547,7 +19613,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/y53oHtf.png"
                     }
                 ]
@@ -19580,7 +19646,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/nApFpV4.png"
                     }
                 ]
@@ -19613,7 +19679,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/WrxrjyD.png"
                     }
                 ]
@@ -19624,7 +19690,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/ih1HMMK.gif"
                     }
                 ]
@@ -19646,7 +19712,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/btXZqBy.png"
                     }
                 ]
@@ -19657,7 +19723,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/kRhFzMx.gif"
                     }
                 ]
@@ -19679,7 +19745,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/kRBPaZQ.png"
                     }
                 ]
@@ -19690,7 +19756,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/4L9lfNK.gif"
                     }
                 ]
@@ -19712,7 +19778,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/6OzHd0i.png"
                     }
                 ]
@@ -19760,7 +19826,7 @@
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/D9SgN6r.gif"
                     }
                 ]
@@ -19782,22 +19848,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/UU6PHJq.png/chall-bt-mpd-easy2.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/z3lvFAx.png/chall-bt-mpd-med2.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/0sZNYvS.png/chall-bt-mpd-hard2.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/9Ombhaf.png"
                     }
                 ]
@@ -19808,22 +19874,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/ZlfWhIY.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/kpARdGT.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/vo8WY4V.gif"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/LjaI8OG.gif"
                     }
                 ]
@@ -19845,17 +19911,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Wzgtmxu.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/aVGMzvc.jpg"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/vgLSJ9m.jpg"
                     }
                 ]
@@ -19866,17 +19932,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/qg87dSX.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/71VeAGA.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/2vbPEsq.gif"
                     }
                 ]
@@ -19898,22 +19964,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/kMu71ef.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/nWfuYMK.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/iotVVIt.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/ohhIhWI.png"
                     }
                 ]
@@ -19924,7 +19990,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/WO9Nkb6.gif"
                     },
                     {
@@ -19961,17 +20027,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/gsHmmFk.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/BZfIopf.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/LSe9JBG.png"
                     }
                 ]
@@ -19982,17 +20048,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/kZk4UsR.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/qHUSGsx.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/zEhfJYt.gif"
                     }
                 ]
@@ -20014,22 +20080,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/fFS0FNn.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Zsz3bom.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/Hz09Edx.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/WRrQCOG.png/chall-bt-opd-conq-21.png"
                     }
                 ]
@@ -20077,7 +20143,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/PnPdWHN.png/OTHERmatch"
                     }
                 ]
@@ -20088,7 +20154,7 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/9Ypfrbl.gif"
                     }
                 ]
@@ -20110,22 +20176,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/y7dpJk7.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/lx5tL7F.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "https://i.imgur.com/9EaJiNU.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/SoIKVLG.png/chall-bt-sp2d-conq12.png"
                     }
                 ]
@@ -20146,12 +20212,12 @@
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/DWXwLbW.gif"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/EN7IVdH.gif"
                     }
                 ]
@@ -20236,22 +20302,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/X2cQfDq.png/chall-bt-spd-comp-easy.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/1Im9llV.png/chall-bt-spd-comp-med.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/OQrdo28.png/chall-bt-spd-comp-hard.png"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/DD5D4Iv.png/chall-bt-spd-conq01.png"
                     }
                 ]
@@ -20262,22 +20328,22 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/VjH6yXM.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/xxQWzTO.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/cN5y2HR.gif"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/YijMZHM.gif"
                     }
                 ]
@@ -20299,17 +20365,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/ZLwu54M.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/MBAm9RY.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/QEGcyyo.png"
                     }
                 ]
@@ -20320,17 +20386,17 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/TYZ1Nhz.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/JJeriDf.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
+                        "completed": true,
                         "badge": "http://i.imgur.com/8lCloAl.gif"
                     }
                 ]
