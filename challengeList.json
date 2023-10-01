@@ -1065,27 +1065,27 @@
         "runs": [
             {
                 "num_run": 1,
-                "topic": null,
+                "topic": "https://myanimelist.net/forum/?goto=post&topicid=2073997&id=68514695",
                 "difficulties": [
                     {
                         "num_difficulty": 1,
                         "completed": false,
-                        "badge": null
+                        "badge": "https://i.imgur.com/029b8Y1.png"
                     },
                     {
                         "num_difficulty": 2,
                         "completed": false,
-                        "badge": null
+                        "badge": "https://i.imgur.com/Jij6Sts.png"
                     },
                     {
                         "num_difficulty": 3,
                         "completed": false,
-                        "badge": null
+                        "badge": "https://i.imgur.com/Aa06rRV.png"
                     },
                     {
                         "num_difficulty": 4,
                         "completed": false,
-                        "badge": null
+                        "badge": "https://i.imgur.com/Ry8ToiT.png"
                     }
                 ]
             },
@@ -4658,12 +4658,12 @@
             },
             {
                 "num_run": 2,
-                "topic": null,
+                "topic": "https://myanimelist.net/forum/?topicid=1811548&msgid=69765507&show=200#msg69765507",
                 "difficulties": [
                     {
                         "num_difficulty": 1,
                         "completed": false,
-                        "badge": null
+                        "badge": "https://i.imgur.com/i4ALIEm.gif"
                     }
                 ]
             }
@@ -8759,7 +8759,7 @@
                     {
                         "num_difficulty": 2,
                         "completed": false,
-                        "badge": null
+                        "badge": "https://i.imgur.com/QGzTKUN.png"
                     },
                     {
                         "num_difficulty": 3,
@@ -12559,7 +12559,7 @@
         "title": "Scavenger Hunt #29",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt29",
         "mal_url": "https://myanimelist.net/forum/?topicid=2022043",
-        "completed": false,
+        "completed": true,
         "category": "Scavenger Hunt",
         "num_difficulties": 1,
         "num_runs": 2,
@@ -12577,12 +12577,12 @@
             },
             {
                 "num_run": 2,
-                "topic": null,
+                "topic": "https://myanimelist.net/forum/?topicid=2022043&msgid=68849959&show=100#msg68849959",
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "https://i.imgur.com/qpsnxPa.png"
                     }
                 ]
             }
@@ -12592,7 +12592,7 @@
         "title": "Scavenger Hunt #30",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt30",
         "mal_url": "https://myanimelist.net/forum/?topicid=2022057",
-        "completed": false,
+        "completed": true,
         "category": "Scavenger Hunt",
         "num_difficulties": 1,
         "num_runs": 2,
@@ -12625,7 +12625,7 @@
         "title": "Scavenger Hunt #31",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt31",
         "mal_url": "https://myanimelist.net/forum/?topicid=2022065",
-        "completed": false,
+        "completed": true,
         "category": "Scavenger Hunt",
         "num_difficulties": 1,
         "num_runs": 2,
@@ -12658,7 +12658,7 @@
         "title": "Scavenger Hunt #32",
         "hof_url": "https://anime.jhiday.net/hof/challenge/scavengerHunt32",
         "mal_url": "https://myanimelist.net/forum/?topicid=2022076",
-        "completed": false,
+        "completed": true,
         "category": "Scavenger Hunt",
         "num_difficulties": 1,
         "num_runs": 2,
@@ -12676,12 +12676,12 @@
             },
             {
                 "num_run": 2,
-                "topic": null,
+                "topic": "https://myanimelist.net/forum/?topicid=2022076&msgid=68817198&show=100#msg68817198",
                 "difficulties": [
                     {
                         "num_difficulty": 1,
                         "completed": false,
-                        "badge": null
+                        "badge": "https://i.imgur.com/pg3ep2s.png"
                     }
                 ]
             }
@@ -19635,7 +19635,7 @@
         "title": "Genre-ONA",
         "hof_url": "https://anime.jhiday.net/hof/challenge/genreONA",
         "mal_url": "https://myanimelist.net/forum/?topicid=2073079",
-        "completed": false,
+        "completed": true,
         "category": "Type",
         "num_difficulties": 1,
         "num_runs": 2,
@@ -19653,12 +19653,12 @@
             },
             {
                 "num_run": 2,
-                "topic": null,
+                "topic": "https://myanimelist.net/forum/?topicid=2073079&msgid=69612011&show=100#msg69612011",
                 "difficulties": [
                     {
                         "num_difficulty": 1,
                         "completed": false,
-                        "badge": null
+                        "badge": "https://i.imgur.com/X0UVUJd.gif"
                     }
                 ]
             }
@@ -19953,7 +19953,7 @@
         "title": "ONA-per-Day",
         "hof_url": "https://anime.jhiday.net/hof/challenge/onaPerDay",
         "mal_url": "https://myanimelist.net/forum/?topicid=1807395",
-        "completed": false,
+        "completed": true,
         "category": "Type",
         "num_difficulties": 4,
         "num_runs": 2,
@@ -19996,17 +19996,17 @@
                     {
                         "num_difficulty": 2,
                         "completed": false,
-                        "badge": null
+                        "badge": "https://i.imgur.com/xvI0tF8.gif"
                     },
                     {
                         "num_difficulty": 3,
                         "completed": false,
-                        "badge": null
+                        "badge": "https://i.imgur.com/ZQ455z4.gif"
                     },
                     {
                         "num_difficulty": 4,
                         "completed": false,
-                        "badge": null
+                        "badge": "https://i.imgur.com/yuzEPd4.gif"
                     }
                 ]
             }
