@@ -16572,7 +16572,7 @@
         "title": "Top 100",
         "hof_url": "https://anime.jhiday.net/hof/challenge/top100",
         "mal_url": "https://myanimelist.net/forum/?topicid=1480488",
-        "completed": false,
+        "completed": true,
         "category": "Statistics",
         "num_difficulties": 1,
         "num_runs": 1,
@@ -19602,7 +19602,7 @@
         "title": "Genre-Music",
         "hof_url": "https://anime.jhiday.net/hof/challenge/genreMusic",
         "mal_url": "https://myanimelist.net/forum/?topicid=1495983",
-        "completed": false,
+        "completed": true,
         "category": "Type",
         "num_difficulties": 1,
         "num_runs": 2,
@@ -19620,12 +19620,12 @@
             },
             {
                 "num_run": 2,
-                "topic": null,
+                "topic": "https://myanimelist.net/forum/?goto=post&topicid=1495983&id=68439671",
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "https://i.imgur.com/sU2Do1o.gif"
                     }
                 ]
             }
