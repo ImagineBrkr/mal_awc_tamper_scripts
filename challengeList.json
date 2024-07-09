@@ -2839,24 +2839,24 @@
         "title": "Detective Conan",
         "hof_url": "https://anime.jhiday.net/hof/challenge/detectiveConan",
         "mal_url": "https://myanimelist.net/forum/?topicid=1493523",
-        "completed": false,
+        "completed": true,
         "category": "Franchise",
         "num_difficulties": 2,
         "num_runs": 1,
         "runs": [
             {
                 "num_run": 1,
-                "topic": null,
+                "topic": "https://myanimelist.net/forum/?goto=post&topicid=1493523&id=59579555",
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "http://i.imgur.com/Y0Qghs9.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "http://i.imgur.com/k53aGM3.png"
                     }
                 ]
             }
@@ -2984,24 +2984,24 @@
         "title": "Lupin III",
         "hof_url": "https://anime.jhiday.net/hof/challenge/lupinIII",
         "mal_url": "https://myanimelist.net/forum/?topicid=1479031",
-        "completed": false,
+        "completed": true,
         "category": "Franchise",
         "num_difficulties": 2,
         "num_runs": 1,
         "runs": [
             {
                 "num_run": 1,
-                "topic": null,
+                "topic": "https://myanimelist.net/forum/?goto=post&topicid=1479031&id=59579906",
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "https://i.imgur.com/G0ymUXh.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "https://i.imgur.com/gXq559c.gif"
                     }
                 ]
             }
@@ -4066,7 +4066,7 @@
         "title": "Harem",
         "hof_url": "https://anime.jhiday.net/hof/challenge/harem",
         "mal_url": "https://myanimelist.net/forum/?topicid=1610787",
-        "completed": false,
+        "completed": true,
         "category": "Genre",
         "num_difficulties": 3,
         "num_runs": 2,
@@ -4098,8 +4098,8 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "http://i.imgur.com/JHMJKpk.gif"
                     },
                     {
                         "num_difficulty": 2,
@@ -5239,7 +5239,7 @@
         "title": "Supernatural",
         "hof_url": "https://anime.jhiday.net/hof/challenge/supernatural",
         "mal_url": "https://myanimelist.net/forum/?topicid=1811967",
-        "completed": false,
+        "completed": true,
         "category": "Genre",
         "num_difficulties": 3,
         "num_runs": 2,
@@ -5272,7 +5272,7 @@
                     {
                         "num_difficulty": 1,
                         "completed": false,
-                        "badge": null
+                        "badge": "https://i.imgur.com/yB5WrSx.gif"
                     },
                     {
                         "num_difficulty": 2,
@@ -12779,19 +12779,19 @@
         "title": "Bakugan",
         "hof_url": "https://anime.jhiday.net/hof/challenge/bakugan",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=150#msg69189457",
-        "completed": false,
+        "completed": true,
         "category": "Series Collections",
         "num_difficulties": 1,
         "num_runs": 1,
         "runs": [
             {
                 "num_run": 1,
-                "topic": null,
+                "topic": "https://myanimelist.net/forum/?goto=post&topicid=1489554&id=52756922",
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "https://i.imgur.com/u3i6TWO.gif"
                     }
                 ]
             }
@@ -12889,19 +12889,19 @@
         "title": "Buddyfight",
         "hof_url": "https://anime.jhiday.net/hof/challenge/buddyfight",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=150#msg69258103",
-        "completed": false,
+        "completed": true,
         "category": "Series Collections",
         "num_difficulties": 1,
         "num_runs": 1,
         "runs": [
             {
                 "num_run": 1,
-                "topic": null,
+                "topic": "https://myanimelist.net/forum/?goto=post&topicid=1489554&id=52756922",
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "https://i.imgur.com/IbhC6Mk.gif"
                     }
                 ]
             }
@@ -13021,19 +13021,19 @@
         "title": "Code Geass",
         "hof_url": "https://anime.jhiday.net/hof/challenge/codeGeass",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132#msg47145761",
-        "completed": false,
+        "completed": true,
         "category": "Series Collections",
         "num_difficulties": 1,
         "num_runs": 1,
         "runs": [
             {
                 "num_run": 1,
-                "topic": null,
+                "topic": "https://myanimelist.net/forum/?goto=post&topicid=1489554&id=52756922",
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "https://i.imgur.com/wmO1E0m.gif"
                     }
                 ]
             }
@@ -13395,19 +13395,19 @@
         "title": "Hakuouki",
         "hof_url": "https://anime.jhiday.net/hof/challenge/hakuouki",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=100#msg60866510",
-        "completed": false,
+        "completed": true,
         "category": "Series Collections",
         "num_difficulties": 1,
         "num_runs": 1,
         "runs": [
             {
                 "num_run": 1,
-                "topic": null,
+                "topic": "https://myanimelist.net/forum/?goto=post&topicid=1489554&id=52756922",
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "https://i.imgur.com/ckQWQoz.gif"
                     }
                 ]
             }
@@ -14627,19 +14627,19 @@
         "title": "Votoms",
         "hof_url": "https://anime.jhiday.net/hof/challenge/votoms",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=50#msg48853990",
-        "completed": false,
+        "completed": true,
         "category": "Series Collections",
         "num_difficulties": 1,
         "num_runs": 1,
         "runs": [
             {
                 "num_run": 1,
-                "topic": null,
+                "topic": "https://myanimelist.net/forum/?goto=post&topicid=1489554&id=52756922",
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "https://i.imgur.com/BN4kOyW.gif"
                     }
                 ]
             }
@@ -18746,19 +18746,19 @@
         "title": "[Theme Tags] Androids",
         "hof_url": "https://anime.jhiday.net/hof/challenge/androids",
         "mal_url": "https://myanimelist.net/forum/?topicid=1802693",
-        "completed": false,
+        "completed": true,
         "category": "Theme",
         "num_difficulties": 1,
         "num_runs": 1,
         "runs": [
             {
                 "num_run": 1,
-                "topic": null,
+                "topic": "https://myanimelist.net/forum/?goto=post&topicid=1802693&id=62416053",
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "https://i.imgur.com/U4tmGLD.gif"
                     }
                 ]
             }
