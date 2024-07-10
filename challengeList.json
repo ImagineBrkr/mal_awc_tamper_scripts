@@ -4428,7 +4428,7 @@
         "title": "Military",
         "hof_url": "https://anime.jhiday.net/hof/challenge/military",
         "mal_url": "https://myanimelist.net/forum/?topicid=1596965",
-        "completed": false,
+        "completed": true,
         "category": "Genre",
         "num_difficulties": 3,
         "num_runs": 2,
@@ -4460,13 +4460,13 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "http://i.imgur.com/ecR8fAr.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "http://i.imgur.com/tlZQnIg.gif"
                     },
                     {
                         "num_difficulty": 3,
