@@ -3651,7 +3651,7 @@
         "title": "Adventure",
         "hof_url": "https://anime.jhiday.net/hof/challenge/adventure",
         "mal_url": "https://myanimelist.net/forum/?topicid=1777244",
-        "completed": false,
+        "completed": true,
         "category": "Genre",
         "num_difficulties": 3,
         "num_runs": 3,
@@ -3700,22 +3700,22 @@
             },
             {
                 "num_run": 3,
-                "topic": null,
+                "topic": "https://myanimelist.net/forum/?goto=post&topicid=1777244&id=68921696",
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "https://i.imgur.com/Ve2QOEE.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "https://i.imgur.com/XjZ4u8L.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "https://i.imgur.com/fmePbwP.gif"
                     }
                 ]
             }
@@ -12801,19 +12801,19 @@
         "title": "Battle Spirits",
         "hof_url": "https://anime.jhiday.net/hof/challenge/battleSpirits",
         "mal_url": "https://myanimelist.net/forum/?topicid=1538132&show=50#msg55213995",
-        "completed": false,
+        "completed": true,
         "category": "Series Collections",
         "num_difficulties": 1,
         "num_runs": 1,
         "runs": [
             {
                 "num_run": 1,
-                "topic": null,
+                "topic": "https://myanimelist.net/forum/?goto=post&topicid=1489554&id=52756922",
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "https://i.imgur.com/o4NZOWX.gif"
                     }
                 ]
             }
@@ -16238,7 +16238,7 @@
         "title": "Multi Tags",
         "hof_url": "https://anime.jhiday.net/hof/challenge/multiTags",
         "mal_url": "https://myanimelist.net/forum/?topicid=2071833",
-        "completed": false,
+        "completed": true,
         "category": "Statistics",
         "num_difficulties": 4,
         "num_runs": 2,
@@ -16271,27 +16271,27 @@
             },
             {
                 "num_run": 2,
-                "topic": null,
+                "topic": "https://myanimelist.net/forum/?goto=post&topicid=2071833&id=69410851",
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "https://i.imgur.com/ONQ2H9T.gif"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "https://i.imgur.com/nIIMXxE.gif"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "https://i.imgur.com/YuSOMnc.gif"
                     },
                     {
                         "num_difficulty": 4,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "https://i.imgur.com/f2eE7Sp.gif"
                     }
                 ]
             }
@@ -17381,23 +17381,23 @@
                 "difficulties": [
                     {
                         "num_difficulty": 1,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "http://i.imgur.com/ZGIPQSV.png"
                     },
                     {
                         "num_difficulty": 2,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "http://i.imgur.com/caSWswP.png"
                     },
                     {
                         "num_difficulty": 3,
-                        "completed": false,
-                        "badge": null
+                        "completed": true,
+                        "badge": "http://i.imgur.com/QeLTKnD.png"
                     },
                     {
                         "num_difficulty": 4,
                         "completed": true,
-                        "badge": "http://i.imgur.com/zHpNGUn.png"
+                        "badge": "http://i.imgur.com/6u7Xmfd.png"
                     },
                     {
                         "num_difficulty": 5,
